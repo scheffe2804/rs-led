@@ -155,6 +155,7 @@ Erst nach Auflösung der Blocker Produkt, Lieferzeit, Marge oder Endpreis festle
 - keine Gedankenstriche; normale Satzzeichen verwenden
 - Auffälligkeiten freundlich erklären, nicht belehren
 - kurze Antwort in Stichpunkten und Telefonat anbieten
+- den Kunden am Schluss ausdrücklich einladen, eigene Fragen per E-Mail oder in einem persönlichen Telefonat zu stellen
 - bei Werbetechnikern oder Wiederverkäufern die B2B-Tür zu Partnerkonditionen öffnen
 
 ### Priorisierung
@@ -210,6 +211,7 @@ Plausibilitätsfehler direkt bei den Anfragedaten sichtbar als Warnung dokumenti
 - Wurde weder nach Eigen-/Kundenprojekt noch nach dem standardmäßig enthaltenen VNNOX-Mediaplayer gefragt?
 - Wurden bereits bekannte Daten nicht erneut abgefragt?
 - Enthält die Mail nur die wichtigsten fünf bis sieben Fragen?
+- Lädt der Schluss den Kunden ausdrücklich zu eigenen Fragen per E-Mail oder Telefonat ein?
 - Ist jede Aussage als Fakt, plausible Einschätzung oder offene Frage erkennbar?
 - Ist klar, dass noch nichts versendet wurde?
 - Wurde Outline aktualisiert?
