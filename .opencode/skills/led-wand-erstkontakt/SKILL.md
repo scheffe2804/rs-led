@@ -12,10 +12,13 @@ Dieser Skill führt einen neuen oder noch ungeklärten RS-LED-Lead vom Rohdatens
 1. **Nie allein der Konfigurator-Empfehlung vertrauen.** Sie ist ein Startpunkt, keine Produktauswahl.
 2. **Keine fehlenden Kundendaten erfinden.** Bekannte Angaben, Schlussfolgerungen und offene Punkte klar trennen.
 3. **Wandgröße und Pixelabstand getrennt bewerten.** Ein feinerer Pitch erhöht die Auflösung, aber nicht die wahrgenommene Größe der Anzeige.
-4. **Noch kein Angebot erstellen**, solange kritische Angaben zu Anwendung, Montage, Zuspielung oder Umgebungsbedingungen fehlen.
+4. **Noch kein Angebot erstellen**, solange kritische Angaben zu Anwendung, Montage, einer ausdrücklich gewünschten Sonderzuspielung oder Umgebungsbedingungen fehlen.
 5. **Nur relevante Fragen stellen.** Bereits beantwortete oder für den Fall nicht zutreffende Checklistenpunkte nicht erneut abfragen.
 6. **Keine Mail versenden.** Erst einen Entwurf erstellen; Versand oder Mail-Draft nur auf ausdrücklichen Auftrag. Eine vorhandene Freigabe zum Schreiben ist keine Versandfreigabe.
 7. **Outline bei jeder relevanten Erkenntnis pflegen.** Bestehende Dokumente mit Patch-Updates ändern, niemals unnötig vollständig ersetzen.
+8. **Nicht nach der Projektrolle fragen.** Ob die Anlage für den eigenen Betrieb oder einen Kunden bestimmt ist, geht RS-LED im Erstkontakt nichts an. Ist ein Werbetechniker oder Wiederverkäufer als solcher erkennbar, Partnerkonditionen anbieten, ohne nach dessen Kundenbeziehung zu fragen.
+9. **Unterkonstruktionen gehören grundsätzlich zu unserem Leistungsumfang.** Nur klären, ob am Montageort bereits eine geeignete Traverse oder tragfähige Anschlusspunkte vorhanden sind. Nicht fragen, wer die Unterkonstruktion übernimmt. Sofern der Kunde nichts anderes vorgibt, planen und liefern wir sie.
+10. **Der VNNOX-Mediaplayer ist grundsätzlich im Angebot enthalten.** Nicht routinemäßig nach Mediaplayer, CMS oder normaler Inhaltszuspielung fragen. Nur bei erkennbaren Sonderanforderungen wie Livebild, externem HDMI-Signal, kundenseitigem CMS oder besonderen Signalwegen nachfassen.
 
 ## Vor dem Arbeiten lesen
 
@@ -37,7 +40,7 @@ Wenn der Lead nicht eindeutig benannt ist, zuerst in Outline unter Interessenten
 In einer internen Arbeitsliste erfassen:
 
 - Kunde, Firma, Kontakt und Quelle
-- Eigenprojekt, Endkunde oder Wiederverkäufer/B2B-Partner
+- erkennbare Kundengruppe, zum Beispiel Werbetechnik/B2B, sofern sie aus der Anfrage hervorgeht; nicht nach Eigen- oder Kundenprojekt fragen
 - Indoor oder Outdoor
 - Anwendung und Zielgruppe
 - Breite, Höhe, Fläche und Ausrichtung
@@ -45,10 +48,10 @@ In einer internen Arbeitsliste erfassen:
 - stehende, laufende oder vorbeifahrende Betrachter
 - Inhalte: Text, Logo, Preise, Bilder, Video oder Livebild
 - Licht, Fenster, direkte Sonne und gewünschte Helligkeit
-- Montageart, Blende, Unterkonstruktion und Tragpunkt
+- Montageart, Blende sowie vorhandene Traverse oder tragfähige Anschlusspunkte; Unterkonstruktion standardmäßig durch RS-LED
 - Kamera/Livestream
 - Betriebsdauer
-- Zuspielung, CMS, Mediaplayer und Signalweg
+- VNNOX-Mediaplayer als Angebotsstandard; nur ausdrücklich gewünschte Sonderzuspielung oder besondere Signalwege erfassen
 - Montage, Einweisung, Wartung und Servicezugang
 
 Unklare Einheiten, vertauschte Maße oder widersprüchliche Angaben ausdrücklich markieren.
@@ -105,17 +108,16 @@ Nur Daten aufführen, die aus der Anfrage oder einer verlässlichen Quelle stamm
 
 Mindestens diese Bereiche prüfen, aber nur relevante Punkte in die Mail übernehmen:
 
-- Projektrolle und Leistungsumfang
 - realer Betrachtungsabstand und Betrachterbewegung
 - Inhalt und gewünschte Lesbarkeit
 - Format, Ausrichtung und exaktes Maß
 - Licht, Fenster und Sonne
 - Festinstallation oder mobiler Einsatz
-- Tragpunkt, Traverse, Unterkonstruktion und Zuständigkeit
+- vorhandene Traverse oder tragfähige Anschlusspunkte; die Unterkonstruktion wird standardmäßig von RS-LED geplant und geliefert
 - Gewicht, Tragfähigkeitsnachweis und Sekundärsicherung
 - Blende, Außenmaß, Belüftung und Wartungszugang
 - Strom, Absicherung und Kabellängen
-- Zuspielung, Player, CMS und Signalweg
+- nur erkennbare Sonderzuspielung, externe Quellen oder besondere Signalwege; nicht nach dem standardmäßig enthaltenen VNNOX-Mediaplayer fragen
 - Montagezugang, Einweisung und Service
 
 #### Nicht zutreffend
@@ -134,8 +136,8 @@ Den Lead auf **noch nicht angebotsreif** setzen, wenn mindestens einer dieser Pu
 - Wandgröße und Betrachtungsabstand wirken unplausibel
 - Innenraum, Schaufenster oder direkte Sonne ist nicht geklärt
 - Maß/Ausrichtung ist nicht bestätigt oder nicht gegen das Kabinettraster geprüft
-- Montage- und Tragwerksschnittstelle ist unklar
-- Zuspielung ist unklar
+- Montage- und Tragwerksschnittstelle zum Gebäude beziehungsweise zum bauseitigen Tragpunkt ist unklar
+- eine ausdrücklich gewünschte Sonderzuspielung oder ein besonderer Signalweg ist unklar
 - konkrete Serie, Lieferant oder belastbares Datenblatt fehlt
 - vollständiger EK fehlt
 
@@ -159,15 +161,17 @@ Erst nach Auflösung der Blocker Produkt, Lieferzeit, Marge oder Endpreis festle
 
 Die Mail soll normalerweise fünf bis sieben Fragen enthalten. Zuerst fragen, was die Produktauswahl wesentlich verändert:
 
-1. Projektrolle
-2. Entfernung und Zielgruppe
-3. Inhalte
-4. Licht und Einbauort
-5. Format und Mechanik
-6. Tragwerk/Montage
-7. Zuspielung
+1. Entfernung und Zielgruppe
+2. Inhalte
+3. Licht und Einbauort
+4. Format und Mechanik
+5. vorhandene Traverse oder tragfähige Anschlusspunkte
+6. Montagezugang, wenn er für die Ausführung entscheidend ist
+7. weitere fallbezogene technische Besonderheiten
 
 Detailfragen zu Strom, Service oder Kabellängen nur sofort aufnehmen, wenn sie akut entscheidend sind. Andernfalls nach der ersten Kundenantwort nachfassen.
+
+Nie fragen, ob es ein Eigen- oder Kundenprojekt ist, wer die Unterkonstruktion übernimmt oder welcher Mediaplayer gewünscht ist. Bei einer fehlenden Traverse oder fehlenden Anschlusspunkten ankündigen, dass RS-LED die erforderliche Unterkonstruktion mit einplant. Der VNNOX-Mediaplayer wird ohne Rückfrage als Bestandteil des Angebots vorgesehen.
 
 ### Diplomatische Plausibilitätsformulierung
 
@@ -202,6 +206,8 @@ Plausibilitätsfehler direkt bei den Anfragedaten sichtbar als Warnung dokumenti
 - Sind Fenster, Sonne und Helligkeit geklärt?
 - Ist das Wunschmaß gegen ein mechanisches Raster zu prüfen?
 - Sind Hängung, Tragpunkt und Sekundärsicherung berücksichtigt?
+- Wird die Unterkonstruktion standardmäßig als RS-LED-Leistung behandelt und nur nach vorhandener Traverse beziehungsweise vorhandenen Anschlusspunkten gefragt?
+- Wurde weder nach Eigen-/Kundenprojekt noch nach dem standardmäßig enthaltenen VNNOX-Mediaplayer gefragt?
 - Wurden bereits bekannte Daten nicht erneut abgefragt?
 - Enthält die Mail nur die wichtigsten fünf bis sieben Fragen?
 - Ist jede Aussage als Fakt, plausible Einschätzung oder offene Frage erkennbar?
