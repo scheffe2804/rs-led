@@ -56,6 +56,8 @@ In einer internen Arbeitsliste erfassen:
 
 Unklare Einheiten, vertauschte Maße oder widersprüchliche Angaben ausdrücklich markieren.
 
+Wenn der Konfigurator `Kamera: ja` ausweist, ist zu klären, ob nur Spielstände, Ergebnisse, Grafiken und andere einfache Inhalte oder auch Videos beziehungsweise live eingespielte Kamerabilder auf der LED-Wand gezeigt werden sollen. Davon hängen insbesondere Auflösung, Kameratauglichkeit, Signaltechnik und Preis ab. Die Rückfrage kurz begründen: Mit diesen Angaben kann RS-LED ein Angebot mit optimalem Preis-Leistungs-Verhältnis erstellen.
+
 ### 2. Plausibilität vor Pitch prüfen
 
 #### Physische Sichtbarkeit
@@ -209,6 +211,7 @@ Plausibilitätsfehler direkt bei den Anfragedaten sichtbar als Warnung dokumenti
 - Sind Hängung, Tragpunkt und Sekundärsicherung berücksichtigt?
 - Wird die Unterkonstruktion standardmäßig als RS-LED-Leistung behandelt und nur nach vorhandener Traverse beziehungsweise vorhandenen Anschlusspunkten gefragt?
 - Wurde weder nach Eigen-/Kundenprojekt noch nach dem standardmäßig enthaltenen VNNOX-Mediaplayer gefragt?
+- Wurde bei `Kamera: ja` geklärt, ob nur einfache Inhalte oder auch Videos beziehungsweise live eingespielte Kamerabilder gezeigt werden sollen?
 - Wurden bereits bekannte Daten nicht erneut abgefragt?
 - Enthält die Mail nur die wichtigsten fünf bis sieben Fragen?
 - Lädt der Schluss den Kunden ausdrücklich zu eigenen Fragen per E-Mail oder Telefonat ein?
