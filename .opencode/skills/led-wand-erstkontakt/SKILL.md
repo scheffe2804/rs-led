@@ -19,6 +19,7 @@ Dieser Skill führt einen neuen oder noch ungeklärten RS-LED-Lead vom Rohdatens
 8. **Nicht nach der Projektrolle fragen.** Ob die Anlage für den eigenen Betrieb oder einen Kunden bestimmt ist, geht RS-LED im Erstkontakt nichts an. Ist ein Werbetechniker oder Wiederverkäufer als solcher erkennbar, Partnerkonditionen anbieten, ohne nach dessen Kundenbeziehung zu fragen.
 9. **Unterkonstruktionen gehören grundsätzlich zu unserem Leistungsumfang.** Nur klären, ob am Montageort bereits eine geeignete Traverse oder tragfähige Anschlusspunkte vorhanden sind. Nicht fragen, wer die Unterkonstruktion übernimmt. Sofern der Kunde nichts anderes vorgibt, planen und liefern wir sie.
 10. **Der VNNOX-Mediaplayer ist grundsätzlich im Angebot enthalten.** Nicht routinemäßig nach Mediaplayer, CMS oder normaler Inhaltszuspielung fragen. Nur bei erkennbaren Sonderanforderungen wie Livebild, externem HDMI-Signal, kundenseitigem CMS oder besonderen Signalwegen nachfassen.
+11. **Eigentum und interne Abstimmung liegen beim Kunden.** Im Erstkontakt nicht fragen, wem Grundstück, Gebäude oder Montageort gehören und ob der Kunde die Aufstellung bereits intern mit Verein, Kommune, Eigentümer oder anderen Beteiligten abgestimmt hat. Solche organisatorischen Zuständigkeiten sind keine technischen Angebotsblocker. Erforderliche behördliche Genehmigungen oder bauseitige Freigaben später nur als kundenseitige Voraussetzung im Angebot abgrenzen, nicht im Erstkontakt ausforschen.
 
 ## Vor dem Arbeiten lesen
 
@@ -174,7 +175,7 @@ Die Mail soll normalerweise fünf bis sieben Fragen enthalten. Zuerst fragen, wa
 
 Detailfragen zu Strom, Service oder Kabellängen nur sofort aufnehmen, wenn sie akut entscheidend sind. Andernfalls nach der ersten Kundenantwort nachfassen.
 
-Nie fragen, ob es ein Eigen- oder Kundenprojekt ist, wer die Unterkonstruktion übernimmt oder welcher Mediaplayer gewünscht ist. Bei einer fehlenden Traverse oder fehlenden Anschlusspunkten ankündigen, dass RS-LED die erforderliche Unterkonstruktion mit einplant. Der VNNOX-Mediaplayer wird ohne Rückfrage als Bestandteil des Angebots vorgesehen.
+Nie fragen, ob es ein Eigen- oder Kundenprojekt ist, wem Grundstück, Gebäude oder Montageort gehören, ob die Aufstellung intern bereits abgestimmt wurde, wer die Unterkonstruktion übernimmt oder welcher Mediaplayer gewünscht ist. Bei einer fehlenden Traverse oder fehlenden Anschlusspunkten ankündigen, dass RS-LED die erforderliche Unterkonstruktion mit einplant. Der VNNOX-Mediaplayer wird ohne Rückfrage als Bestandteil des Angebots vorgesehen. Behördliche Genehmigungen und bauseitige Freigaben bei Bedarf später als kundenseitige Voraussetzung im Angebot abgrenzen.
 
 ### Diplomatische Plausibilitätsformulierung
 
@@ -211,6 +212,7 @@ Plausibilitätsfehler direkt bei den Anfragedaten sichtbar als Warnung dokumenti
 - Sind Hängung, Tragpunkt und Sekundärsicherung berücksichtigt?
 - Wird die Unterkonstruktion standardmäßig als RS-LED-Leistung behandelt und nur nach vorhandener Traverse beziehungsweise vorhandenen Anschlusspunkten gefragt?
 - Wurde weder nach Eigen-/Kundenprojekt noch nach dem standardmäßig enthaltenen VNNOX-Mediaplayer gefragt?
+- Wurde weder nach Eigentumsverhältnissen noch nach internen Abstimmungen mit Verein, Kommune, Eigentümer oder anderen Beteiligten gefragt?
 - Wurde bei `Kamera: ja` geklärt, ob nur einfache Inhalte oder auch Videos beziehungsweise live eingespielte Kamerabilder gezeigt werden sollen?
 - Wurden bereits bekannte Daten nicht erneut abgefragt?
 - Enthält die Mail nur die wichtigsten fünf bis sieben Fragen?
