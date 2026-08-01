@@ -1,0 +1,39 @@
+# Secrets and local environment
+.env
+.env.*
+!.env.example
+.secrets/
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Local tooling and caches
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.tmp
+*.log
+__pycache__/
+*.py[cod]
+node_modules/
+.venv/
+venv/
+
+# Build and generated output
+dist/
+build/
+coverage/
+.cache/
+tmp/
+
+# Local exports and backups
+*.bak
+*.backup
+*.dump
+*.sql
+*.zip
+*.tar
+*.tar.gz
