@@ -163,7 +163,7 @@ Erst nach Auflösung der Blocker Produkt, Lieferzeit, Marge oder Endpreis festle
 
 ### Priorisierung
 
-Die Mail soll normalerweise fünf bis sieben Fragen enthalten. Zuerst fragen, was die Produktauswahl wesentlich verändert:
+Die Mail soll normalerweise vier bis sieben leicht beantwortbare Fragen enthalten. Zuerst fragen, was die Produktauswahl wesentlich verändert:
 
 1. Entfernung und Zielgruppe
 2. Inhalte
@@ -173,7 +173,7 @@ Die Mail soll normalerweise fünf bis sieben Fragen enthalten. Zuerst fragen, wa
 6. Montagezugang, wenn er für die Ausführung entscheidend ist
 7. weitere fallbezogene technische Besonderheiten
 
-Detailfragen zu Strom, Service oder Kabellängen nur sofort aufnehmen, wenn sie akut entscheidend sind. Andernfalls nach der ersten Kundenantwort nachfassen.
+Die Antwortschwelle im Erstkontakt niedrig halten. Keine Fotos, Lagepläne, Skizzen, Aufmaße oder anderen Unterlagen verlangen, sofern sie nicht ausnahmsweise schon für die erste Grundauswahl unverzichtbar sind. Solche Unterlagen erst nach einer ersten positiven Kundenantwort für die konkrete Planung anfordern. Fragen zu Strom, Unterkante, Ballaufprall, Montagezugang, Service oder Kabellängen nur sofort aufnehmen, wenn sie akut über die grundsätzliche Machbarkeit entscheiden; andernfalls in eine zweite Planungsstufe verschieben. So bleibt der Lead auch dann antwortfähig, wenn ihn die Mail unterwegs oder ohne Zugriff auf Projektunterlagen erreicht.
 
 Nie fragen, ob es ein Eigen- oder Kundenprojekt ist, wem Grundstück, Gebäude oder Montageort gehören, ob die Aufstellung intern bereits abgestimmt wurde, wer die Unterkonstruktion übernimmt oder welcher Mediaplayer gewünscht ist. Bei einer fehlenden Traverse oder fehlenden Anschlusspunkten ankündigen, dass RS-LED die erforderliche Unterkonstruktion mit einplant. Der VNNOX-Mediaplayer wird ohne Rückfrage als Bestandteil des Angebots vorgesehen. Behördliche Genehmigungen und bauseitige Freigaben bei Bedarf später als kundenseitige Voraussetzung im Angebot abgrenzen.
 
@@ -215,7 +215,8 @@ Plausibilitätsfehler direkt bei den Anfragedaten sichtbar als Warnung dokumenti
 - Wurde weder nach Eigentumsverhältnissen noch nach internen Abstimmungen mit Verein, Kommune, Eigentümer oder anderen Beteiligten gefragt?
 - Wurde bei `Kamera: ja` geklärt, ob nur einfache Inhalte oder auch Videos beziehungsweise live eingespielte Kamerabilder gezeigt werden sollen?
 - Wurden bereits bekannte Daten nicht erneut abgefragt?
-- Enthält die Mail nur die wichtigsten fünf bis sieben Fragen?
+- Enthält die Mail nur die wichtigsten vier bis sieben, ohne Unterlagen direkt beantwortbaren Fragen?
+- Wurden Fotos, Lagepläne, Aufmaße sowie nachgelagerte Detailfragen zu Strom, Unterkante, Ballaufprall und Montagezugang möglichst in die zweite Planungsstufe verschoben?
 - Lädt der Schluss den Kunden ausdrücklich zu eigenen Fragen per E-Mail oder Telefonat ein?
 - Ist jede Aussage als Fakt, plausible Einschätzung oder offene Frage erkennbar?
 - Ist klar, dass noch nichts versendet wurde?
