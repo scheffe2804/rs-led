@@ -20,6 +20,7 @@ Dieser Skill führt einen neuen oder noch ungeklärten RS-LED-Lead vom Rohdatens
 9. **Unterkonstruktionen gehören grundsätzlich zu unserem Leistungsumfang.** Nur klären, ob am Montageort bereits eine geeignete Traverse oder tragfähige Anschlusspunkte vorhanden sind. Nicht fragen, wer die Unterkonstruktion übernimmt. Sofern der Kunde nichts anderes vorgibt, planen und liefern wir sie.
 10. **Der VNNOX-Mediaplayer ist grundsätzlich im Angebot enthalten.** Nicht routinemäßig nach Mediaplayer, CMS oder normaler Inhaltszuspielung fragen. Nur bei erkennbaren Sonderanforderungen wie Livebild, externem HDMI-Signal, kundenseitigem CMS oder besonderen Signalwegen nachfassen.
 11. **Eigentum und interne Abstimmung liegen beim Kunden.** Im Erstkontakt nicht fragen, wem Grundstück, Gebäude oder Montageort gehören und ob der Kunde die Aufstellung bereits intern mit Verein, Kommune, Eigentümer oder anderen Beteiligten abgestimmt hat. Solche organisatorischen Zuständigkeiten sind keine technischen Angebotsblocker. Erforderliche behördliche Genehmigungen oder bauseitige Freigaben später nur als kundenseitige Voraussetzung im Angebot abgrenzen, nicht im Erstkontakt ausforschen.
+12. **Versandaufträge an anfragende Kunden nachverfolgen.** Nach dem Anlegen oder Aktualisieren des sendefertigen Kundenentwurfs den Nutzer genau einmal ausdrücklich fragen, ob er die Mail im Postfach versendet hat. Eine Versandfreigabe oder ein Entwurf allein ist noch kein Versandnachweis. Nach Bestätigung den Gesendet-Ordner prüfen und den Versandstatus in Outline abschließen.
 
 ## Vor dem Arbeiten lesen
 
@@ -203,6 +204,19 @@ Im Lead-Dokument mit `patch` ergänzen oder aktualisieren:
 
 Plausibilitätsfehler direkt bei den Anfragedaten sichtbar als Warnung dokumentieren. Externe Erkenntnisse, neue Kalkulationsgrundlagen und Caveats zusätzlich in den dafür vorgesehenen zentralen Outline-Dokumenten pflegen.
 
+### Versandnachkontrolle bei Kundenmails
+
+Wenn der Nutzer ausdrücklich anweist, eine Mail an den anfragenden Kunden rauszuschicken:
+
+1. Den vollständigen Kundenentwurf im Postfach anlegen oder aktualisieren und Empfänger, Betreff, Text- und HTML-Fassung, Anhänge, CC und BCC prüfen.
+2. Danach genau einmal fragen: `Hast du die Mail im Postfach versendet?`
+3. Bis zur Bestätigung beziehungsweise Verifizierung im Gesendet-Ordner nur `Entwurf angelegt · nicht versendet` dokumentieren. Niemals allein aus Versandauftrag oder Entwurfsstatus einen tatsächlichen Versand ableiten.
+4. Nach der Bestätigung im Gesendet-Ordner nach Empfänger und Betreff suchen und die gefundene Nachricht vollständig prüfen. Falls sie noch nicht auffindbar ist, die Nutzerbestätigung dokumentieren und die technische Verifizierung als offen kennzeichnen.
+5. Nach erfolgreicher Verifizierung den Versandauftrag in Kundenvorgang und Interessenten-Index als erledigt markieren. Versandzeit, Empfänger, Betreff und Nachrichten-ID festhalten; veraltete Entwurfs- oder Versandhinweise entfernen beziehungsweise eindeutig als überholt kennzeichnen.
+6. Den nächsten Schritt auf `Kundenantwort abwarten` setzen und ein sinnvolles Nachfassdatum dokumentieren.
+
+Diese Nachfrage gilt für Mails an den anfragenden Kunden, nicht routinemäßig für interne Prüf- oder Weiterleitungsmails. `can_send: false` dabei nicht erneut erklären; die einmalige Frage dient ausschließlich dem Abgleich des tatsächlichen Versandstatus.
+
 ## Selbstprüfung vor Ausgabe
 
 - Sind Wandgröße und Betrachtungsabstand getrennt vom Pitch geprüft?
@@ -220,6 +234,8 @@ Plausibilitätsfehler direkt bei den Anfragedaten sichtbar als Warnung dokumenti
 - Lädt der Schluss den Kunden ausdrücklich zu eigenen Fragen per E-Mail oder Telefonat ein?
 - Ist jede Aussage als Fakt, plausible Einschätzung oder offene Frage erkennbar?
 - Ist klar, dass noch nichts versendet wurde?
+- Wurde nach einem Versandauftrag an den anfragenden Kunden genau einmal nach dem manuellen Versand gefragt?
+- Wurden bestätigte Kundenmail-Versendungen im Gesendet-Ordner verifiziert und in Kundenvorgang sowie Interessenten-Index als erledigt markiert?
 - Wurde Outline aktualisiert?
 
 ## Antwort an den Nutzer
@@ -229,4 +245,5 @@ Nach der Bearbeitung liefern:
 1. das kurze Prüfergebnis
 2. die vollständige Erstkontakt-Mail
 3. den Hinweis, was in Outline aktualisiert wurde
-4. die klare Aussage `nicht versendet`, sofern kein ausdrücklicher Versandauftrag vorlag
+4. die klare Aussage `Entwurf angelegt · nicht versendet`, solange kein tatsächlicher Versand verifiziert wurde
+5. nach einem Versandauftrag an den anfragenden Kunden genau einmal die Frage `Hast du die Mail im Postfach versendet?`
