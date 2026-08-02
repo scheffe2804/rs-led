@@ -51,14 +51,16 @@ In einer internen Arbeitsliste erfassen:
 - Inhalte: Text, Logo, Preise, Bilder, Video oder Livebild
 - Licht, Fenster, direkte Sonne und gewünschte Helligkeit
 - Montageart, Blende sowie vorhandene Traverse oder tragfähige Anschlusspunkte; Unterkonstruktion standardmäßig durch RS-LED
-- Kamera/Livestream
+- Kameraaufnahme der LED-Wand gemäß Konfiguratorfrage `Wird die Wand gefilmt?`; davon getrennt gewünschte Inhalte und eine mögliche Live-Kamerazuspielung bewerten
 - Betriebsdauer
 - VNNOX-Mediaplayer als Angebotsstandard; nur ausdrücklich gewünschte Sonderzuspielung oder besondere Signalwege erfassen
 - Montage, Einweisung, Wartung und Servicezugang
 
 Unklare Einheiten, vertauschte Maße oder widersprüchliche Angaben ausdrücklich markieren.
 
-Wenn der Konfigurator `Kamera: ja` ausweist, ist zu klären, ob nur Spielstände, Ergebnisse, Grafiken und andere einfache Inhalte oder auch Videos beziehungsweise live eingespielte Kamerabilder auf der LED-Wand gezeigt werden sollen. Davon hängen insbesondere Auflösung, Kameratauglichkeit, Signaltechnik und Preis ab. Die Rückfrage kurz begründen: Mit diesen Angaben kann RS-LED ein Angebot mit optimalem Preis-Leistungs-Verhältnis erstellen.
+Das Konfiguratorfeld `Kamera: ja` stammt aus der Frage `Wird die Wand gefilmt?` und bedeutet, dass die LED-Wand bei Stream, TV, Studio oder Bühnenmitschnitt aufgenommen wird. Nicht erneut fragen, ob die Wand gefilmt oder regelmäßig mit einer Kamera aufgenommen wird. Kameratauglichkeit und eine Bildwiederholrate von mindestens 3.840 Hz als bekannte Anforderung behandeln und später gegen das konkrete Produktdatenblatt verifizieren.
+
+Davon getrennt darf nach den **auf der LED-Wand gezeigten Inhalten** gefragt werden: nur Spielstände, Ergebnisse und einfache Grafiken oder auch Vereinslogos, Sponsorenwerbung, Bilder, Videos beziehungsweise live eingespielte Kamerabilder. Diese Inhaltsfrage ist durch `Kamera: ja` nicht beantwortet. Von ihr hängen insbesondere Auflösung, Controller, Signaltechnik und Preis ab. Die Rückfrage kurz begründen: Mit diesen Angaben kann RS-LED ein Angebot mit optimalem Preis-Leistungs-Verhältnis erstellen.
 
 ### 2. Plausibilität vor Pitch prüfen
 
@@ -227,7 +229,8 @@ Diese Nachfrage gilt für Mails an den anfragenden Kunden, nicht routinemäßig 
 - Wird die Unterkonstruktion standardmäßig als RS-LED-Leistung behandelt und nur nach vorhandener Traverse beziehungsweise vorhandenen Anschlusspunkten gefragt?
 - Wurde weder nach Eigen-/Kundenprojekt noch nach dem standardmäßig enthaltenen VNNOX-Mediaplayer gefragt?
 - Wurde weder nach Eigentumsverhältnissen noch nach internen Abstimmungen mit Verein, Kommune, Eigentümer oder anderen Beteiligten gefragt?
-- Wurde bei `Kamera: ja` geklärt, ob nur einfache Inhalte oder auch Videos beziehungsweise live eingespielte Kamerabilder gezeigt werden sollen?
+- Wurde `Kamera: ja` korrekt als bereits beantwortete Frage `Wird die Wand gefilmt?` behandelt, ohne dieselbe Kamerafrage erneut zu stellen?
+- Wurde davon getrennt geklärt, ob nur einfache Inhalte oder auch Bilder, Videos beziehungsweise live eingespielte Kamerabilder auf der Wand gezeigt werden sollen?
 - Wurden bereits bekannte Daten nicht erneut abgefragt?
 - Enthält die Mail nur die wichtigsten vier bis sieben, ohne Unterlagen direkt beantwortbaren Fragen?
 - Wurden Fotos, Lagepläne, Aufmaße sowie nachgelagerte Detailfragen zu Strom, Unterkante, Ballaufprall und Montagezugang möglichst in die zweite Planungsstufe verschoben?
