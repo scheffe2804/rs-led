@@ -27,6 +27,12 @@ Massangaben aus dem LED-Konfigurator bezeichnen immer die sichtbare LED-Flaeche.
 
 Beim Erstkontakt stattdessen klaeren, an wen das Angebot gerichtet werden darf, und die Montageadresse abfragen, sofern diese Angaben noch fehlen.
 
+## Erstkontakt bei haengender oder abgehaengter Montage
+
+Wenn der Kunde im LED-Konfigurator ausdruecklich `haengend/abgehaengt` ausgewaehlt hat, diese Montageart als beantwortet behandeln. Nicht ohne konkreten Widerspruch erneut fragen, ob die LED-Wand dauerhaft haengen oder fuer Veranstaltungen auf- und abgebaut werden soll.
+
+Bei dieser Montageart keine Unterkonstruktion abfragen, ankündigen oder einplanen. Stattdessen klaeren, an welchen vorhandenen Aufhaenge- beziehungsweise Befestigungspunkten die abgehaengte LED-Wand befestigt werden soll. Erforderliche kabinettspezifische Hanging Bars, Anschlagmittel und Sekundaersicherung sind Komponenten der Haengung und nicht als Unterkonstruktion zu bezeichnen.
+
 ## E-Mail-Versand
 
 Beim angebundenen Mailkonto ist `can_send: false` der beabsichtigte Normalzustand und weder ein Fehler noch ein zu behebender Blocker. OpenCode soll E-Mails als vollstaendige, gepruefte und sendefertige Entwuerfe im Postfach anlegen. Wenn der Nutzer sinngemaess zum Senden auffordert, ist damit in diesem technischen Rahmen das Erstellen beziehungsweise Aktualisieren eines solchen Entwurfs gemeint; niemals einen tatsaechlichen Versand vortaeuschen.

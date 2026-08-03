@@ -17,7 +17,7 @@ Dieser Skill führt einen neuen oder noch ungeklärten RS-LED-Lead vom Rohdatens
 6. **Keine Mail versenden.** Erst einen Entwurf erstellen; Versand oder Mail-Draft nur auf ausdrücklichen Auftrag. Eine vorhandene Freigabe zum Schreiben ist keine Versandfreigabe.
 7. **Outline bei jeder relevanten Erkenntnis pflegen.** Bestehende Dokumente mit Patch-Updates ändern, niemals unnötig vollständig ersetzen.
 8. **Nicht nach der Projektrolle fragen.** Ob die Anlage für den eigenen Betrieb oder einen Kunden bestimmt ist, geht RS-LED im Erstkontakt nichts an. Ist ein Werbetechniker oder Wiederverkäufer als solcher erkennbar, Partnerkonditionen anbieten, ohne nach dessen Kundenbeziehung zu fragen.
-9. **Unterkonstruktionen gehören grundsätzlich zu unserem Leistungsumfang.** Nur klären, ob am Montageort bereits eine geeignete Traverse oder tragfähige Anschlusspunkte vorhanden sind. Nicht fragen, wer die Unterkonstruktion übernimmt. Sofern der Kunde nichts anderes vorgibt, planen und liefern wir sie.
+9. **Unterkonstruktionen gehören grundsätzlich zu unserem Leistungsumfang, außer bei ausdrücklich hängender beziehungsweise abgehängter Montage.** Bei anderen Montagearten nur klären, ob am Montageort bereits eine geeignete Traverse oder tragfähige Anschlusspunkte vorhanden sind. Nicht fragen, wer die Unterkonstruktion übernimmt. Sofern der Kunde nichts anderes vorgibt, planen und liefern wir sie. Hat der Kunde jedoch bereits `hängend/abgehängt` ausgewählt, wird keine Unterkonstruktion abgefragt, angekündigt oder eingeplant. Stattdessen klären, an welchen vorhandenen Aufhänge- beziehungsweise Befestigungspunkten die LED-Wand befestigt werden soll. Kabinettspezifische Hanging Bars, Anschlagmittel und Sekundärsicherung gehören zur Hängung und sind nicht als Unterkonstruktion zu bezeichnen.
 10. **Der VNNOX-Mediaplayer ist grundsätzlich im Angebot enthalten.** Nicht routinemäßig nach Mediaplayer, CMS oder normaler Inhaltszuspielung fragen. Nur bei erkennbaren Sonderanforderungen wie Livebild, externem HDMI-Signal, kundenseitigem CMS oder besonderen Signalwegen nachfassen.
 11. **Eigentum und interne Abstimmung liegen beim Kunden.** Im Erstkontakt nicht fragen, wem Grundstück, Gebäude oder Montageort gehören und ob der Kunde die Aufstellung bereits intern mit Verein, Kommune, Eigentümer oder anderen Beteiligten abgestimmt hat. Solche organisatorischen Zuständigkeiten sind keine technischen Angebotsblocker. Erforderliche behördliche Genehmigungen oder bauseitige Freigaben später nur als kundenseitige Voraussetzung im Angebot abgrenzen, nicht im Erstkontakt ausforschen.
 12. **Versandaufträge an anfragende Kunden nachverfolgen.** Nach dem Anlegen oder Aktualisieren des sendefertigen Kundenentwurfs den Nutzer genau einmal ausdrücklich fragen, ob er die Mail im Postfach versendet hat. Eine Versandfreigabe oder ein Entwurf allein ist noch kein Versandnachweis. Nach Bestätigung den Gesendet-Ordner prüfen und den Versandstatus in Outline abschließen.
@@ -26,6 +26,7 @@ Dieser Skill führt einen neuen oder noch ungeklärten RS-LED-Lead vom Rohdatens
 15. **Bestätigte Höhenangaben wörtlich übernehmen.** Eine ausdrücklich angegebene Unterkante ist eine Unterkante. Nicht ohne einen echten Widerspruch erneut fragen, ob vielleicht die Gesamthöhe gemeint war.
 16. **Vergleichbare Sportplatzabstände aus der Referenzpraxis bewerten.** Etwa 30 m Betrachtungsabstand sind bei Sportplatzanzeigen im Bereich 3 × 2 m bis 4 × 3 m für große Spielstände, Uhr, klare Vereinswappen und großflächige Sponsorenmotive plausibel. Den Abstand nicht routinemäßig erneut hinterfragen, sofern Größe, gewünschter Inhalt oder Standortgeometrie keinen Widerspruch erkennen lassen.
 17. **Keine Bilder in E-Mail-Entwürfe einfügen.** Bilder weder einbetten noch als Anhang hochladen oder dem Entwurf hinzufügen. Der Nutzer ergänzt Bilder selbst im Mailprogramm. Ein gewünschter Hinweis auf beigefügte Referenzbilder darf im Text stehen; andere Anhänge nur auf ausdrücklichen Auftrag hinzufügen.
+18. **Eine ausdrücklich gewählte hängende beziehungsweise abgehängte Montage nicht erneut öffnen.** Ohne konkreten Widerspruch nicht fragen, ob die LED-Wand dauerhaft hängen oder für Veranstaltungen auf- und abgebaut werden soll. Die richtige Erstkontaktfrage richtet sich stattdessen auf die vorhandenen Aufhänge- beziehungsweise Befestigungspunkte.
 
 ## Vor dem Arbeiten lesen
 
@@ -55,7 +56,7 @@ In einer internen Arbeitsliste erfassen:
 - stehende, laufende oder vorbeifahrende Betrachter
 - Inhalte: Text, Logo, Preise, Bilder, Video oder Livebild
 - Licht, Fenster, direkte Sonne und gewünschte Helligkeit
-- Montageart, Blende sowie vorhandene Traverse oder tragfähige Anschlusspunkte; Unterkonstruktion standardmäßig durch RS-LED
+- Montageart und Blende; bei ausdrücklich `hängend/abgehängt` die vorhandenen Aufhänge- beziehungsweise Befestigungspunkte erfassen und keine Unterkonstruktion ansetzen; bei anderen Montagearten vorhandene Traverse oder tragfähige Anschlusspunkte erfassen und die Unterkonstruktion standardmäßig durch RS-LED behandeln
 - Kameraaufnahme der LED-Wand gemäß Konfiguratorfrage `Wird die Wand gefilmt?`; davon getrennt gewünschte Inhalte und eine mögliche Live-Kamerazuspielung bewerten
 - Betriebsdauer
 - VNNOX-Mediaplayer als Angebotsstandard; nur ausdrücklich gewünschte Sonderzuspielung oder besondere Signalwege erfassen
@@ -127,8 +128,8 @@ Mindestens diese Bereiche prüfen, aber nur relevante Punkte in die Mail überne
 - Inhalt und gewünschte Lesbarkeit
 - Format, Ausrichtung und exaktes Maß; Konfigurator-Maße gelten als sichtbare LED-Fläche und werden nicht gegen ein Außenmaß einschließlich Blende abgefragt
 - Licht, Fenster und Sonne
-- Festinstallation oder mobiler Einsatz
-- vorhandene Traverse oder tragfähige Anschlusspunkte; die Unterkonstruktion wird standardmäßig von RS-LED geplant und geliefert
+- Festinstallation oder mobiler Einsatz, aber nicht erneut abfragen, wenn `hängend/abgehängt` bereits ausdrücklich gewählt wurde und kein konkreter Widerspruch vorliegt
+- montageartbezogene Schnittstelle: bei `hängend/abgehängt` fragen, an welchen vorhandenen Aufhänge- beziehungsweise Befestigungspunkten die Wand befestigt werden soll, ohne eine Unterkonstruktion anzusetzen; bei anderen Montagearten vorhandene Traverse oder tragfähige Anschlusspunkte klären und die Unterkonstruktion standardmäßig durch RS-LED planen und liefern
 - Gewicht, Tragfähigkeitsnachweis und Sekundärsicherung
 - Blende, daraus später abgeleitetes Außenmaß, Belüftung und Wartungszugang
 - Strom, Absicherung und Kabellängen
@@ -181,7 +182,7 @@ Die Mail soll normalerweise vier bis sieben leicht beantwortbare Fragen enthalte
 2. Inhalte
 3. Licht und Einbauort
 4. Format und Mechanik
-5. vorhandene Traverse oder tragfähige Anschlusspunkte
+5. montageartbezogene Schnittstelle: bei `hängend/abgehängt` die vorhandenen Aufhänge- beziehungsweise Befestigungspunkte, ansonsten vorhandene Traverse oder tragfähige Anschlusspunkte
 6. Montagezugang, wenn er für die Ausführung entscheidend ist
 7. weitere fallbezogene technische Besonderheiten
 
@@ -195,7 +196,7 @@ Bei Sportplatz-Leads gelten zusätzlich diese Prioritäten:
 
 Die Antwortschwelle im Erstkontakt niedrig halten. Keine Fotos, Lagepläne, Skizzen, Aufmaße oder anderen Unterlagen verlangen, sofern sie nicht ausnahmsweise schon für die erste Grundauswahl unverzichtbar sind. Solche Unterlagen erst nach einer ersten positiven Kundenantwort für die konkrete Planung anfordern. Fragen zu Strom, Unterkante, Ballaufprall, Montagezugang, Service oder Kabellängen nur sofort aufnehmen, wenn sie akut über die grundsätzliche Machbarkeit entscheiden; andernfalls in eine zweite Planungsstufe verschieben. So bleibt der Lead auch dann antwortfähig, wenn ihn die Mail unterwegs oder ohne Zugriff auf Projektunterlagen erreicht.
 
-Nie fragen, ob es ein Eigen- oder Kundenprojekt ist, wem Grundstück, Gebäude oder Montageort gehören, ob die Aufstellung intern bereits abgestimmt wurde, wer die Unterkonstruktion übernimmt, welcher Mediaplayer gewünscht ist oder ob das Konfigurator-Maß die LED-Fläche beziehungsweise das Außenmaß einschließlich Blende bezeichnet. Bei einer fehlenden Traverse oder fehlenden Anschlusspunkten ankündigen, dass RS-LED die erforderliche Unterkonstruktion mit einplant. Der VNNOX-Mediaplayer wird ohne Rückfrage als Bestandteil des Angebots vorgesehen. Behördliche Genehmigungen und bauseitige Freigaben bei Bedarf später als kundenseitige Voraussetzung im Angebot abgrenzen.
+Nie fragen, ob es ein Eigen- oder Kundenprojekt ist, wem Grundstück, Gebäude oder Montageort gehören, ob die Aufstellung intern bereits abgestimmt wurde, wer die Unterkonstruktion übernimmt, welcher Mediaplayer gewünscht ist oder ob das Konfigurator-Maß die LED-Fläche beziehungsweise das Außenmaß einschließlich Blende bezeichnet. Bei anderen Montagearten und einer fehlenden Traverse oder fehlenden tragfähigen Anschlusspunkten ankündigen, dass RS-LED die erforderliche Unterkonstruktion mit einplant. Bei ausdrücklich `hängend/abgehängt` dagegen niemals eine Unterkonstruktion abfragen, ankündigen oder einplanen. Auch nicht erneut fragen, ob die Wand dauerhaft hängen oder für Veranstaltungen auf- und abgebaut werden soll. Stattdessen beispielsweise fragen: `An welchen vorhandenen Aufhänge- beziehungsweise Befestigungspunkten soll die abgehängte LED-Wand befestigt werden?` Der VNNOX-Mediaplayer wird ohne Rückfrage als Bestandteil des Angebots vorgesehen. Behördliche Genehmigungen und bauseitige Freigaben bei Bedarf später als kundenseitige Voraussetzung im Angebot abgrenzen.
 
 ### Diplomatische Plausibilitätsformulierung
 
@@ -243,7 +244,8 @@ Diese Nachfrage gilt für Mails an den anfragenden Kunden, nicht routinemäßig 
 - Sind Fenster, Sonne und Helligkeit geklärt?
 - Ist das Wunschmaß gegen ein mechanisches Raster zu prüfen?
 - Sind Hängung, Tragpunkt und Sekundärsicherung berücksichtigt?
-- Wird die Unterkonstruktion standardmäßig als RS-LED-Leistung behandelt und nur nach vorhandener Traverse beziehungsweise vorhandenen Anschlusspunkten gefragt?
+- Wird bei ausdrücklich `hängend/abgehängt` weder nach einer Unterkonstruktion noch erneut nach dauerhafter oder mobiler Nutzung gefragt, sondern nach den vorhandenen Aufhänge- beziehungsweise Befestigungspunkten?
+- Wird die Unterkonstruktion bei anderen Montagearten standardmäßig als RS-LED-Leistung behandelt und nur nach vorhandener Traverse beziehungsweise vorhandenen Anschlusspunkten gefragt?
 - Wurde weder nach Eigen-/Kundenprojekt noch nach dem standardmäßig enthaltenen VNNOX-Mediaplayer gefragt?
 - Wurde weder nach Eigentumsverhältnissen noch nach internen Abstimmungen mit Verein, Kommune, Eigentümer oder anderen Beteiligten gefragt?
 - Wurde `Kamera: ja` korrekt als bereits beantwortete Frage `Wird die Wand gefilmt?` behandelt, ohne dieselbe Kamerafrage erneut zu stellen?
