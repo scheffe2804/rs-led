@@ -17,9 +17,21 @@ Stelle erst dann eine gezielte Rückfrage, wenn die Prüfung keine belastbare Fo
 
 Nur fuer dieses Projekt `/home/chris/web/rs-led` und seine Unterverzeichnisse gilt die Pflicht, bei relevanten Aenderungen, Neuinstallationen, Erkenntnissen oder Caveats die zugehoerige Outline-Dokumentation gemaess Convention-Dokument `TOsEetTSdj` zu pflegen. Diese Regel darf nicht auf andere Projekte unter `/home/chris/web` uebertragen werden.
 
+## Erstkontakt bei Sportplatz-Leads
+
+Bei vergleichbaren Sportplatz-Anzeigen sind etwa 30 m Betrachtungsabstand fuer grosse Spielstaende, Uhr, Vereinswappen und grossflaechige Sponsorenmotive plausibel. Diesen Abstand nicht routinemaessig erneut hinterfragen, sofern Groesse, Inhalt oder Standortgeometrie keinen Widerspruch erkennen lassen.
+
+Sportplatz-Anzeigen standardmaessig einseitig planen. Nur nach einer beidseitigen oder mehrseitigen Ausfuehrung fragen, wenn Anfrage, Bilder oder Standort dies konkret nahelegen. Eine ausdruecklich angegebene Unterkante als Unterkante uebernehmen und nicht ohne Widerspruch in eine Rueckfrage zur Gesamthoehe umdeuten.
+
+Massangaben aus dem LED-Konfigurator bezeichnen immer die sichtbare LED-Flaeche. Eine gewuenschte Blende kommt hinzu und vergroessert das spaetere Aussenmass. Nie mehr fragen, ob sich das angegebene Mass auf die LED-Flaeche oder das Aussenmass inklusive Blende bezieht.
+
+Beim Erstkontakt stattdessen klaeren, an wen das Angebot gerichtet werden darf, und die Montageadresse abfragen, sofern diese Angaben noch fehlen.
+
 ## E-Mail-Versand
 
 Beim angebundenen Mailkonto ist `can_send: false` der beabsichtigte Normalzustand und weder ein Fehler noch ein zu behebender Blocker. OpenCode soll E-Mails als vollstaendige, gepruefte und sendefertige Entwuerfe im Postfach anlegen. Wenn der Nutzer sinngemaess zum Senden auffordert, ist damit in diesem technischen Rahmen das Erstellen beziehungsweise Aktualisieren eines solchen Entwurfs gemeint; niemals einen tatsaechlichen Versand vortaeuschen.
+
+Keine Bilder selbst in E-Mail-Entwuerfe einbetten oder als Anhang hinzufuegen. Der Nutzer fuegt Bilder im Mailprogramm eigenstaendig hinzu. Einen gewuenschten Hinweis auf Bilder im Mailtext darf OpenCode formulieren, die Bilddateien selbst aber nicht anfassen. Andere Anhaenge nur auf ausdruecklichen Auftrag hinzufuegen.
 
 Wenn der Nutzer bei einem E-Mail-Auftrag ohne weitere Adressangabe `Georg` als Empfaenger nennt, ist damit immer `g.schroejahr@rs-led.de` gemeint. Eine abweichende Adresse nur verwenden, wenn der Nutzer sie ausdruecklich nennt.
 

@@ -21,6 +21,11 @@ Dieser Skill führt einen neuen oder noch ungeklärten RS-LED-Lead vom Rohdatens
 10. **Der VNNOX-Mediaplayer ist grundsätzlich im Angebot enthalten.** Nicht routinemäßig nach Mediaplayer, CMS oder normaler Inhaltszuspielung fragen. Nur bei erkennbaren Sonderanforderungen wie Livebild, externem HDMI-Signal, kundenseitigem CMS oder besonderen Signalwegen nachfassen.
 11. **Eigentum und interne Abstimmung liegen beim Kunden.** Im Erstkontakt nicht fragen, wem Grundstück, Gebäude oder Montageort gehören und ob der Kunde die Aufstellung bereits intern mit Verein, Kommune, Eigentümer oder anderen Beteiligten abgestimmt hat. Solche organisatorischen Zuständigkeiten sind keine technischen Angebotsblocker. Erforderliche behördliche Genehmigungen oder bauseitige Freigaben später nur als kundenseitige Voraussetzung im Angebot abgrenzen, nicht im Erstkontakt ausforschen.
 12. **Versandaufträge an anfragende Kunden nachverfolgen.** Nach dem Anlegen oder Aktualisieren des sendefertigen Kundenentwurfs den Nutzer genau einmal ausdrücklich fragen, ob er die Mail im Postfach versendet hat. Eine Versandfreigabe oder ein Entwurf allein ist noch kein Versandnachweis. Nach Bestätigung den Gesendet-Ordner prüfen und den Versandstatus in Outline abschließen.
+13. **Konfigurator-Maße sind immer die sichtbare LED-Fläche.** Eine gewünschte Blende kommt hinzu und vergrößert das spätere Außenmaß. Nie fragen, ob sich Breite und Höhe auf die LED-Fläche oder das Außenmaß einschließlich Blende beziehen. Das exakte Außenmaß später aus LED-Fläche, Kabinettraster, Blende und Konstruktion ableiten.
+14. **Sportplatz-Anzeigen standardmäßig einseitig planen.** Nur nach einer beidseitigen oder mehrseitigen Ausführung fragen, wenn Anfrage, Bilder, Blickrichtungen oder Standort dies konkret nahelegen. Bei einer normalen Sportplatz-Anfrage ohne solchen Hinweis nicht routinemäßig nach der Ansichtsseite fragen.
+15. **Bestätigte Höhenangaben wörtlich übernehmen.** Eine ausdrücklich angegebene Unterkante ist eine Unterkante. Nicht ohne einen echten Widerspruch erneut fragen, ob vielleicht die Gesamthöhe gemeint war.
+16. **Vergleichbare Sportplatzabstände aus der Referenzpraxis bewerten.** Etwa 30 m Betrachtungsabstand sind bei Sportplatzanzeigen im Bereich 3 × 2 m bis 4 × 3 m für große Spielstände, Uhr, klare Vereinswappen und großflächige Sponsorenmotive plausibel. Den Abstand nicht routinemäßig erneut hinterfragen, sofern Größe, gewünschter Inhalt oder Standortgeometrie keinen Widerspruch erkennen lassen.
+17. **Keine Bilder in E-Mail-Entwürfe einfügen.** Bilder weder einbetten noch als Anhang hochladen oder dem Entwurf hinzufügen. Der Nutzer ergänzt Bilder selbst im Mailprogramm. Ein gewünschter Hinweis auf beigefügte Referenzbilder darf im Text stehen; andere Anhänge nur auf ausdrücklichen Auftrag hinzufügen.
 
 ## Vor dem Arbeiten lesen
 
@@ -45,7 +50,7 @@ In einer internen Arbeitsliste erfassen:
 - erkennbare Kundengruppe, zum Beispiel Werbetechnik/B2B, sofern sie aus der Anfrage hervorgeht; nicht nach Eigen- oder Kundenprojekt fragen
 - Indoor oder Outdoor
 - Anwendung und Zielgruppe
-- Breite, Höhe, Fläche und Ausrichtung
+- Breite, Höhe, Fläche und Ausrichtung; Konfigurator-Maße als sichtbare LED-Fläche behandeln, eine Blende kommt zum Außenmaß hinzu
 - typischer, minimaler und maximaler Betrachtungsabstand
 - stehende, laufende oder vorbeifahrende Betrachter
 - Inhalte: Text, Logo, Preise, Bilder, Video oder Livebild
@@ -57,6 +62,8 @@ In einer internen Arbeitsliste erfassen:
 - Montage, Einweisung, Wartung und Servicezugang
 
 Unklare Einheiten, vertauschte Maße oder widersprüchliche Angaben ausdrücklich markieren.
+
+Bei Sportplatz-Anfragen ohne gegenteiligen Hinweis intern zunächst eine einseitige Anzeige annehmen. Eine beidseitige Ausführung nur klären, wenn Anfrage, Bilder oder mehrere relevante Blickrichtungen dafür einen konkreten Anlass liefern. Ausdrücklich angegebene Unterkanten nicht erneut als mögliche Gesamthöhen hinterfragen.
 
 Das Konfiguratorfeld `Kamera: ja` stammt aus der Frage `Wird die Wand gefilmt?` und bedeutet, dass die LED-Wand bei Stream, TV, Studio oder Bühnenmitschnitt aufgenommen wird. Nicht erneut fragen, ob die Wand gefilmt oder regelmäßig mit einer Kamera aufgenommen wird. Kameratauglichkeit und eine Bildwiederholrate von mindestens 3.840 Hz als bekannte Anforderung behandeln und später gegen das konkrete Produktdatenblatt verifizieren.
 
@@ -74,6 +81,8 @@ scheinbare Höhe aus 1 m = Wandhöhe / Betrachtungsabstand
 ```
 
 Beispiel: 1,00 × 1,50 m aus 25 m wirkt ungefähr wie 4 × 6 cm aus 1 m. Das kann für ein kurzes Wort, eine Zahl oder ein einfaches Logo genügen, ist für mehrere Textzeilen oder klassische Werbemotive aber wahrscheinlich zu klein.
+
+Referenzpraxis Sportplatz: Anzeigen von etwa 3 × 2 m bis 4 × 3 m sind aus rund 30 m für große Spielstände, Uhr, klare Vereinswappen und großflächige Sponsorenmotive physisch plausibel. In einem vergleichbaren Fall den Abstand nicht allein aus Routine erneut abfragen. Nur nachfassen, wenn kleinere Inhalte, wesentlich andere Entfernungen, mehrere Zuschauerbereiche oder die Standortgeometrie die Bewertung verändern.
 
 Eine Auffälligkeit diplomatisch als Rückfrage formulieren:
 
@@ -116,12 +125,12 @@ Mindestens diese Bereiche prüfen, aber nur relevante Punkte in die Mail überne
 
 - realer Betrachtungsabstand und Betrachterbewegung
 - Inhalt und gewünschte Lesbarkeit
-- Format, Ausrichtung und exaktes Maß
+- Format, Ausrichtung und exaktes Maß; Konfigurator-Maße gelten als sichtbare LED-Fläche und werden nicht gegen ein Außenmaß einschließlich Blende abgefragt
 - Licht, Fenster und Sonne
 - Festinstallation oder mobiler Einsatz
 - vorhandene Traverse oder tragfähige Anschlusspunkte; die Unterkonstruktion wird standardmäßig von RS-LED geplant und geliefert
 - Gewicht, Tragfähigkeitsnachweis und Sekundärsicherung
-- Blende, Außenmaß, Belüftung und Wartungszugang
+- Blende, daraus später abgeleitetes Außenmaß, Belüftung und Wartungszugang
 - Strom, Absicherung und Kabellängen
 - nur erkennbare Sonderzuspielung, externe Quellen oder besondere Signalwege; nicht nach dem standardmäßig enthaltenen VNNOX-Mediaplayer fragen
 - Montagezugang, Einweisung und Service
@@ -176,9 +185,17 @@ Die Mail soll normalerweise vier bis sieben leicht beantwortbare Fragen enthalte
 6. Montagezugang, wenn er für die Ausführung entscheidend ist
 7. weitere fallbezogene technische Besonderheiten
 
+Bei Sportplatz-Leads gelten zusätzlich diese Prioritäten:
+
+- Etwa 30 m bei einer plausiblen Anzeigengröße nicht routinemäßig erneut abfragen.
+- Ohne konkreten Gegenhinweis einseitige Ausführung als Standard annehmen.
+- Eine ausdrücklich angegebene Unterkante übernehmen und nicht als mögliche Gesamthöhe hinterfragen.
+- Nie fragen, ob das Konfigurator-Maß die LED-Fläche oder das Außenmaß bezeichnet. Es ist immer die sichtbare LED-Fläche; die Blende kommt hinzu.
+- Wenn noch nicht bekannt, fragen: `An wen dürfen wir das Angebot richten?` und `Wie lautet die Montageadresse?`
+
 Die Antwortschwelle im Erstkontakt niedrig halten. Keine Fotos, Lagepläne, Skizzen, Aufmaße oder anderen Unterlagen verlangen, sofern sie nicht ausnahmsweise schon für die erste Grundauswahl unverzichtbar sind. Solche Unterlagen erst nach einer ersten positiven Kundenantwort für die konkrete Planung anfordern. Fragen zu Strom, Unterkante, Ballaufprall, Montagezugang, Service oder Kabellängen nur sofort aufnehmen, wenn sie akut über die grundsätzliche Machbarkeit entscheiden; andernfalls in eine zweite Planungsstufe verschieben. So bleibt der Lead auch dann antwortfähig, wenn ihn die Mail unterwegs oder ohne Zugriff auf Projektunterlagen erreicht.
 
-Nie fragen, ob es ein Eigen- oder Kundenprojekt ist, wem Grundstück, Gebäude oder Montageort gehören, ob die Aufstellung intern bereits abgestimmt wurde, wer die Unterkonstruktion übernimmt oder welcher Mediaplayer gewünscht ist. Bei einer fehlenden Traverse oder fehlenden Anschlusspunkten ankündigen, dass RS-LED die erforderliche Unterkonstruktion mit einplant. Der VNNOX-Mediaplayer wird ohne Rückfrage als Bestandteil des Angebots vorgesehen. Behördliche Genehmigungen und bauseitige Freigaben bei Bedarf später als kundenseitige Voraussetzung im Angebot abgrenzen.
+Nie fragen, ob es ein Eigen- oder Kundenprojekt ist, wem Grundstück, Gebäude oder Montageort gehören, ob die Aufstellung intern bereits abgestimmt wurde, wer die Unterkonstruktion übernimmt, welcher Mediaplayer gewünscht ist oder ob das Konfigurator-Maß die LED-Fläche beziehungsweise das Außenmaß einschließlich Blende bezeichnet. Bei einer fehlenden Traverse oder fehlenden Anschlusspunkten ankündigen, dass RS-LED die erforderliche Unterkonstruktion mit einplant. Der VNNOX-Mediaplayer wird ohne Rückfrage als Bestandteil des Angebots vorgesehen. Behördliche Genehmigungen und bauseitige Freigaben bei Bedarf später als kundenseitige Voraussetzung im Angebot abgrenzen.
 
 ### Diplomatische Plausibilitätsformulierung
 
@@ -210,7 +227,7 @@ Plausibilitätsfehler direkt bei den Anfragedaten sichtbar als Warnung dokumenti
 
 Wenn der Nutzer ausdrücklich anweist, eine Mail an den anfragenden Kunden rauszuschicken:
 
-1. Den vollständigen Kundenentwurf im Postfach anlegen oder aktualisieren und Empfänger, Betreff, Text- und HTML-Fassung, Anhänge, CC und BCC prüfen.
+1. Den vollständigen Kundenentwurf im Postfach anlegen oder aktualisieren und Empfänger, Betreff, Text- und HTML-Fassung, CC und BCC prüfen. Keine Bilder selbst einbetten oder anhängen; sie werden vom Nutzer ergänzt. Andere ausdrücklich beauftragte Anhänge prüfen.
 2. Danach genau einmal fragen: `Hast du die Mail im Postfach versendet?`
 3. Bis zur Bestätigung beziehungsweise Verifizierung im Gesendet-Ordner nur `Entwurf angelegt · nicht versendet` dokumentieren. Niemals allein aus Versandauftrag oder Entwurfsstatus einen tatsächlichen Versand ableiten.
 4. Nach der Bestätigung im Gesendet-Ordner nach Empfänger und Betreff suchen und die gefundene Nachricht vollständig prüfen. Falls sie noch nicht auffindbar ist, die Nutzerbestätigung dokumentieren und die technische Verifizierung als offen kennzeichnen.
@@ -232,6 +249,11 @@ Diese Nachfrage gilt für Mails an den anfragenden Kunden, nicht routinemäßig 
 - Wurde `Kamera: ja` korrekt als bereits beantwortete Frage `Wird die Wand gefilmt?` behandelt, ohne dieselbe Kamerafrage erneut zu stellen?
 - Wurde davon getrennt geklärt, ob nur einfache Inhalte oder auch Bilder, Videos beziehungsweise live eingespielte Kamerabilder auf der Wand gezeigt werden sollen?
 - Wurden bereits bekannte Daten nicht erneut abgefragt?
+- Wurden Konfigurator-Maße als sichtbare LED-Fläche behandelt und eine Rückfrage zum Außenmaß einschließlich Blende vermieden?
+- Wurde bei einer normalen Sportplatz-Anfrage ohne Gegenhinweis einseitige Ausführung als Standard angenommen?
+- Wurde eine ausdrücklich angegebene Unterkante ohne unnötige Rückfrage übernommen?
+- Wurde ein plausibler Sportplatzabstand von etwa 30 m nicht nur aus Routine erneut abgefragt?
+- Wurden bei fehlenden Stammdaten Angebotsempfänger und Montageadresse erfragt?
 - Enthält die Mail nur die wichtigsten vier bis sieben, ohne Unterlagen direkt beantwortbaren Fragen?
 - Wurden Fotos, Lagepläne, Aufmaße sowie nachgelagerte Detailfragen zu Strom, Unterkante, Ballaufprall und Montagezugang möglichst in die zweite Planungsstufe verschoben?
 - Lädt der Schluss den Kunden ausdrücklich zu eigenen Fragen per E-Mail oder Telefonat ein?
@@ -240,6 +262,7 @@ Diese Nachfrage gilt für Mails an den anfragenden Kunden, nicht routinemäßig 
 - Wurde nach einem Versandauftrag an den anfragenden Kunden genau einmal nach dem manuellen Versand gefragt?
 - Wurden bestätigte Kundenmail-Versendungen im Gesendet-Ordner verifiziert und in Kundenvorgang sowie Interessenten-Index als erledigt markiert?
 - Wurde Outline aktualisiert?
+- Wurden keine Bilder in den E-Mail-Entwurf eingebettet oder als Anhang hinzugefügt?
 
 ## Antwort an den Nutzer
 
