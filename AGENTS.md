@@ -21,6 +21,8 @@ Nur fuer dieses Projekt `/home/chris/web/rs-led` und seine Unterverzeichnisse gi
 
 Beim angebundenen Mailkonto ist `can_send: false` der beabsichtigte Normalzustand und weder ein Fehler noch ein zu behebender Blocker. OpenCode soll E-Mails als vollstaendige, gepruefte und sendefertige Entwuerfe im Postfach anlegen. Wenn der Nutzer sinngemaess zum Senden auffordert, ist damit in diesem technischen Rahmen das Erstellen beziehungsweise Aktualisieren eines solchen Entwurfs gemeint; niemals einen tatsaechlichen Versand vortaeuschen.
 
+Wenn der Nutzer bei einem E-Mail-Auftrag ohne weitere Adressangabe `Georg` als Empfaenger nennt, ist damit immer `g.schroejahr@rs-led.de` gemeint. Eine abweichende Adresse nur verwenden, wenn der Nutzer sie ausdruecklich nennt.
+
 Den Nutzer nach Abschluss einmal knapp und eindeutig ueber `Entwurf angelegt` beziehungsweise `nicht versendet` informieren. `can_send: false` nicht bei jedem Zwischenschritt erneut erklaeren, nicht wiederholt als Problem hervorheben und nicht staendig dieselbe manuelle Versandaufforderung wiederholen. Nur erneut darauf eingehen, wenn der Nutzer nach dem tatsaechlichen Versandstatus fragt, ein vermeintlicher Versand verifiziert werden muss oder sich die Mail-Faehigkeiten des Kontos geaendert haben.
 
 Wenn der Nutzer ausdruecklich anweist, eine Mail an den anfragenden Kunden rauszuschicken, nach dem Anlegen oder Aktualisieren des geprueften Kundenentwurfs genau einmal fragen, ob er die Mail im Postfach versendet hat. Diese einmalige Versandnachfrage ist beabsichtigt und keine erneute Erklaerung von `can_send: false`. Eine Versandfreigabe oder ein Entwurf allein darf niemals als tatsaechlicher Versand dokumentiert werden.
