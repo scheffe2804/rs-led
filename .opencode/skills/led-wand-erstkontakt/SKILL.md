@@ -1,6 +1,6 @@
 ---
 name: led-wand-erstkontakt
-description: Use ONLY for LED-Wand, LED-Videowand, Konfigurator-Lead, Kundenanfrage, Lead-Prüfung oder Erstkontakt-Mail. Prüft neue RS-LED-Leads technisch und kaufmännisch, erkennt unplausible Angaben, formuliert den Erstkontakt und pflegt den Vorgang in Outline.
+description: Use ONLY for LED-Wand, LED-Videowand, Konfigurator-Lead, Kundenanfrage, Lead-Prüfung oder Erstkontakt-Mail. Prüft neue RS-LED-Leads technisch und kaufmännisch, erkennt unplausible Angaben, formuliert den Erstkontakt und pflegt den Vorgang in Twenty.
 ---
 
 # LED-Wand-Erstkontakt
@@ -15,12 +15,12 @@ Dieser Skill führt einen neuen oder noch ungeklärten RS-LED-Lead vom Rohdatens
 4. **Noch kein Angebot erstellen**, solange kritische Angaben zu Anwendung, Montage, einer ausdrücklich gewünschten Sonderzuspielung oder Umgebungsbedingungen fehlen.
 5. **Nur relevante Fragen stellen.** Bereits beantwortete oder für den Fall nicht zutreffende Checklistenpunkte nicht erneut abfragen.
 6. **Keine Mail versenden.** Erst einen Entwurf erstellen; Versand oder Mail-Draft nur auf ausdrücklichen Auftrag. Eine vorhandene Freigabe zum Schreiben ist keine Versandfreigabe.
-7. **Outline bei jeder relevanten Erkenntnis pflegen.** Bestehende Dokumente mit Patch-Updates ändern, niemals unnötig vollständig ersetzen.
+7. **Twenty bei jeder relevanten Erkenntnis pflegen.** Bestehende Firmen, Personen, Opportunities, Notizen, Aufgaben und Wissenseinträge gezielt aktualisieren. Keine Dubletten oder parallele Dokumentation anlegen.
 8. **Nicht nach der Projektrolle fragen.** Ob die Anlage für den eigenen Betrieb oder einen Kunden bestimmt ist, geht RS-LED im Erstkontakt nichts an. Ist ein Werbetechniker oder Wiederverkäufer als solcher erkennbar, Partnerkonditionen anbieten, ohne nach dessen Kundenbeziehung zu fragen.
 9. **Unterkonstruktionen gehören grundsätzlich zu unserem Leistungsumfang, außer bei ausdrücklich hängender beziehungsweise abgehängter Montage.** Bei anderen Montagearten nur klären, ob am Montageort bereits eine geeignete Traverse oder tragfähige Anschlusspunkte vorhanden sind. Nicht fragen, wer die Unterkonstruktion übernimmt. Sofern der Kunde nichts anderes vorgibt, planen und liefern wir sie. Hat der Kunde jedoch bereits `hängend/abgehängt` ausgewählt, wird keine Unterkonstruktion abgefragt, angekündigt oder eingeplant. Stattdessen klären, an welchen vorhandenen Aufhänge- beziehungsweise Befestigungspunkten die LED-Wand befestigt werden soll. Kabinettspezifische Hanging Bars, Anschlagmittel und Sekundärsicherung gehören zur Hängung und sind nicht als Unterkonstruktion zu bezeichnen.
 10. **Der VNNOX-Mediaplayer ist grundsätzlich im Angebot enthalten.** Nicht routinemäßig nach Mediaplayer, CMS oder normaler Inhaltszuspielung fragen. Nur bei erkennbaren Sonderanforderungen wie Livebild, externem HDMI-Signal, kundenseitigem CMS oder besonderen Signalwegen nachfassen.
 11. **Eigentum und interne Abstimmung liegen beim Kunden.** Im Erstkontakt nicht fragen, wem Grundstück, Gebäude oder Montageort gehören und ob der Kunde die Aufstellung bereits intern mit Verein, Kommune, Eigentümer oder anderen Beteiligten abgestimmt hat. Solche organisatorischen Zuständigkeiten sind keine technischen Angebotsblocker. Erforderliche behördliche Genehmigungen oder bauseitige Freigaben später nur als kundenseitige Voraussetzung im Angebot abgrenzen, nicht im Erstkontakt ausforschen.
-12. **Versandaufträge an anfragende Kunden nachverfolgen.** Nach dem Anlegen oder Aktualisieren des sendefertigen Kundenentwurfs den Nutzer genau einmal ausdrücklich fragen, ob er die Mail im Postfach versendet hat. Eine Versandfreigabe oder ein Entwurf allein ist noch kein Versandnachweis. Nach Bestätigung den Gesendet-Ordner prüfen und den Versandstatus in Outline abschließen.
+12. **Versandaufträge an anfragende Kunden nachverfolgen.** Nach dem Anlegen oder Aktualisieren des sendefertigen Kundenentwurfs den Nutzer genau einmal ausdrücklich fragen, ob er die Mail im Postfach versendet hat. Eine Versandfreigabe oder ein Entwurf allein ist noch kein Versandnachweis. Nach Bestätigung den Gesendet-Ordner prüfen und den Versandstatus in Twenty abschließen.
 13. **Konfigurator-Maße sind immer die sichtbare LED-Fläche.** Eine gewünschte Blende kommt hinzu und vergrößert das spätere Außenmaß. Nie fragen, ob sich Breite und Höhe auf die LED-Fläche oder das Außenmaß einschließlich Blende beziehen. Das exakte Außenmaß später aus LED-Fläche, Kabinettraster, Blende und Konstruktion ableiten.
 14. **Sportplatz-Anzeigen standardmäßig einseitig planen.** Nur nach einer beidseitigen oder mehrseitigen Ausführung fragen, wenn Anfrage, Bilder, Blickrichtungen oder Standort dies konkret nahelegen. Bei einer normalen Sportplatz-Anfrage ohne solchen Hinweis nicht routinemäßig nach der Ansichtsseite fragen.
 15. **Bestätigte Höhenangaben wörtlich übernehmen.** Eine ausdrücklich angegebene Unterkante ist eine Unterkante. Nicht ohne einen echten Widerspruch erneut fragen, ob vielleicht die Gesamthöhe gemeint war.
@@ -30,16 +30,18 @@ Dieser Skill führt einen neuen oder noch ungeklärten RS-LED-Lead vom Rohdatens
 
 ## Vor dem Arbeiten lesen
 
-Die jeweils aktuelle Fassung aus Outline abrufen, nicht aus dem Gedächtnis arbeiten:
+Die jeweils aktuelle Fassung aus Twenty abrufen, nicht aus dem Gedächtnis arbeiten:
 
-- den vollständigen Kundenvorgang des Leads
-- `Angebots-Checkliste — vor Kalkulation und Versand` (`c998fff5-51d6-4223-b87c-3e31c116c0c1`)
-- `Angebote — Aufbau, Regeln, Vorlage` (`e7411075-a7a6-4ccd-abc4-388f9a886af5`)
-- `Produktserien & Namensgebung` (`a3a3886c-0393-4be9-8f59-c1877137d086`)
-- bei Bedarf `Mitschick-Dokumente & E-Mail-Signatur` (`8ea34717-c9b5-4aa8-9dc5-e884c6920dc1`)
-- die verbindliche Outline-Dokumentationskonvention, soweit zugreifbar
+- den vollständigen Kundenvorgang mit Firma, Person, Opportunity, Notizen, Aktivitäten und offenen beziehungsweise erledigten Aufgaben
+- den aktuellen Wissenseintrag `Angebots-Checkliste — vor Kalkulation und Versand`
+- den aktuellen Wissenseintrag `Angebote — Aufbau, Regeln, Vorlage`
+- den aktuellen Wissenseintrag `Produktserien & Namensgebung`
+- bei Bedarf den Wissenseintrag `Mitschick-Dokumente & E-Mail-Signatur`
+- weitere mit dem Vorgang verknüpfte technische, kaufmännische oder servicebezogene Wissenseinträge
 
-Wenn der Lead nicht eindeutig benannt ist, zuerst in Outline unter Interessenten/Kunden suchen. Original-Mail oder Formularinhalt hinzuziehen, wenn der Kundenvorgang unvollständig oder widersprüchlich ist.
+Vor dem ersten Twenty-Zugriff bei Bedarf mit `learn_tools` die aktuellen Werkzeuge und Eingabeschemata für die betroffenen Objekte laden. Vorhandene Felder und Relationen verwenden; nicht eigenmächtig das Twenty-Datenmodell verändern.
+
+Wenn der Lead nicht eindeutig benannt ist, zuerst in Twenty über Personen, Firmen und Opportunities suchen. Mehrere mögliche Treffer nicht raten, sondern über E-Mail-Adresse, Firma, Projektbezeichnung und vorhandene Relationen eindeutig zuordnen. Original-Mail oder Formularinhalt hinzuziehen, wenn der Kundenvorgang unvollständig oder widersprüchlich ist.
 
 ## Arbeitsablauf
 
@@ -206,23 +208,23 @@ Wenn Größe und Entfernung nicht zusammenpassen:
 
 Keine feste Aussage zur Eignung treffen, bevor Inhalt und realer Abstand beantwortet wurden.
 
-## Outline-Dokumentation
+## Twenty-Dokumentation
 
-Im Lead-Dokument mit `patch` ergänzen oder aktualisieren:
+Den bestehenden Kundenvorgang gezielt aktualisieren. Das konkrete Twenty-Datenmodell ist verbindlich; vor Schreibzugriffen die aktuellen Werkzeugschemata laden und vorhandene Objekte, Felder sowie Relationen verwenden. Grundsätzlich gehören die Informationen an diese Stellen:
 
-1. Tabellenfeld **Stand**, zum Beispiel:
-   `Checklistenprüfung abgeschlossen · Erstkontakt-Mail entworfen · Review vor Versand offen`
-2. Abschnitt **Checklistenprüfung Anfrage · DATUM** mit:
+1. **Firma und Person:** verifizierte Stamm- und Kontaktdaten aktualisieren; fehlende Daten nicht erfinden.
+2. **Opportunity beziehungsweise Kundenvorgang:** Projektbezeichnung, Anwendungsfall, technische Eckdaten, Angebotsreife, Status und nächsten Schritt pflegen.
+3. **Verknüpfte Notiz zur Checklistenprüfung · DATUM:**
    - Ergebnis der Angebotsreife
-   - bereits geklärten Angaben
-   - kritischen Rückfragen
-   - technischen und kalkulatorischen Folgen
-   - nicht zutreffenden Punkten
-   - Blockern
-3. Abschnitt **Mail-Entwurf NAME · DATUM** mit Betreff und vollständigem Text
-4. Abschnitt **Offen** mit den nächsten konkreten Schritten
+   - bereits geklärte Angaben
+   - kritische Rückfragen
+   - technische und kalkulatorische Folgen
+   - nicht zutreffende Punkte
+   - Blocker
+4. **Verknüpfte Notiz zum Mail-Entwurf · NAME · DATUM:** Betreff und vollständigen Text dokumentieren, sofern das bestehende Twenty-Datenmodell dies so vorsieht.
+5. **Aufgaben:** jeden konkreten nächsten Schritt mit Verantwortlichkeit, Status und sinnvollem Fälligkeits- beziehungsweise Nachfassdatum pflegen.
 
-Plausibilitätsfehler direkt bei den Anfragedaten sichtbar als Warnung dokumentieren. Externe Erkenntnisse, neue Kalkulationsgrundlagen und Caveats zusätzlich in den dafür vorgesehenen zentralen Outline-Dokumenten pflegen.
+Vor dem Anlegen neuer Firma, Person oder Opportunity immer nach einem vorhandenen Datensatz suchen und Dubletten vermeiden. Bestehende Einträge aktualisieren, statt neue Parallelvorgänge anzulegen. Plausibilitätsfehler bei den technischen Anfragedaten sichtbar als Warnung dokumentieren. Externe Erkenntnisse, neue Kalkulationsgrundlagen und Caveats zusätzlich in den dafür vorgesehenen zentralen Twenty-Wissenseinträgen pflegen.
 
 ### Versandnachkontrolle bei Kundenmails
 
@@ -232,7 +234,7 @@ Wenn der Nutzer ausdrücklich anweist, eine Mail an den anfragenden Kunden rausz
 2. Danach genau einmal fragen: `Hast du die Mail im Postfach versendet?`
 3. Bis zur Bestätigung beziehungsweise Verifizierung im Gesendet-Ordner nur `Entwurf angelegt · nicht versendet` dokumentieren. Niemals allein aus Versandauftrag oder Entwurfsstatus einen tatsächlichen Versand ableiten.
 4. Nach der Bestätigung im Gesendet-Ordner nach Empfänger und Betreff suchen und die gefundene Nachricht vollständig prüfen. Falls sie noch nicht auffindbar ist, die Nutzerbestätigung dokumentieren und die technische Verifizierung als offen kennzeichnen.
-5. Nach erfolgreicher Verifizierung den Versandauftrag in Kundenvorgang und Interessenten-Index als erledigt markieren. Versandzeit, Empfänger, Betreff und Nachrichten-ID festhalten; veraltete Entwurfs- oder Versandhinweise entfernen beziehungsweise eindeutig als überholt kennzeichnen.
+5. Nach erfolgreicher Verifizierung die Opportunity beziehungsweise den Kundenvorgang und die zugehörige Versandaufgabe in Twenty als erledigt markieren. Versandzeit, Empfänger, Betreff und Nachrichten-ID festhalten; veraltete Entwurfs- oder Versandhinweise entfernen beziehungsweise eindeutig als überholt kennzeichnen.
 6. Den nächsten Schritt auf `Kundenantwort abwarten` setzen und ein sinnvolles Nachfassdatum dokumentieren.
 
 Diese Nachfrage gilt für Mails an den anfragenden Kunden, nicht routinemäßig für interne Prüf- oder Weiterleitungsmails. `can_send: false` dabei nicht erneut erklären; die einmalige Frage dient ausschließlich dem Abgleich des tatsächlichen Versandstatus.
@@ -262,8 +264,8 @@ Diese Nachfrage gilt für Mails an den anfragenden Kunden, nicht routinemäßig 
 - Ist jede Aussage als Fakt, plausible Einschätzung oder offene Frage erkennbar?
 - Ist klar, dass noch nichts versendet wurde?
 - Wurde nach einem Versandauftrag an den anfragenden Kunden genau einmal nach dem manuellen Versand gefragt?
-- Wurden bestätigte Kundenmail-Versendungen im Gesendet-Ordner verifiziert und in Kundenvorgang sowie Interessenten-Index als erledigt markiert?
-- Wurde Outline aktualisiert?
+- Wurden bestätigte Kundenmail-Versendungen im Gesendet-Ordner verifiziert und in Opportunity beziehungsweise Kundenvorgang sowie Versandaufgabe in Twenty als erledigt markiert?
+- Wurde Twenty aktualisiert, ohne Dubletten oder parallele Dokumentation anzulegen?
 - Wurden keine Bilder in den E-Mail-Entwurf eingebettet oder als Anhang hinzugefügt?
 
 ## Antwort an den Nutzer
@@ -272,6 +274,6 @@ Nach der Bearbeitung liefern:
 
 1. das kurze Prüfergebnis
 2. die vollständige Erstkontakt-Mail
-3. den Hinweis, was in Outline aktualisiert wurde
+3. den Hinweis, was in Twenty aktualisiert wurde
 4. die klare Aussage `Entwurf angelegt · nicht versendet`, solange kein tatsächlicher Versand verifiziert wurde
 5. nach einem Versandauftrag an den anfragenden Kunden genau einmal die Frage `Hast du die Mail im Postfach versendet?`

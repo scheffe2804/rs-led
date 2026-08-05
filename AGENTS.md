@@ -13,9 +13,9 @@ Leite daraus den zuletzt bearbeiteten Arbeitskontext und den sinnvollsten nächs
 
 Stelle erst dann eine gezielte Rückfrage, wenn die Prüfung keine belastbare Fortsetzung ermöglicht, mehrere wesentlich unterschiedliche Arbeitsrichtungen offen sind oder eine riskante beziehungsweise irreversible Entscheidung erforderlich wäre. Verwirf oder überschreibe niemals vorhandene Änderungen, nur um einen vermeintlich sauberen Ausgangszustand herzustellen.
 
-## Outline-Dokumentation
+## Twenty CRM und Wissensbasis
 
-Nur fuer dieses Projekt `/home/chris/web/rs-led` und seine Unterverzeichnisse gilt die Pflicht, bei relevanten Aenderungen, Neuinstallationen, Erkenntnissen oder Caveats die zugehoerige Outline-Dokumentation gemaess Convention-Dokument `TOsEetTSdj` zu pflegen. Diese Regel darf nicht auf andere Projekte unter `/home/chris/web` uebertragen werden.
+Twenty ist fuer dieses Projekt die alleinige verbindliche Quelle fuer CRM-Daten und die zugehoerige Wissensbasis. Bei relevanten Aenderungen, Neuinstallationen, Erkenntnissen oder Caveats die passenden Datensaetze beziehungsweise Wissenseintraege in Twenty pflegen. Bestehende Datensaetze gezielt aktualisieren und keine parallele Dokumentation in einem anderen System anlegen.
 
 ## Erstkontakt bei Sportplatz-Leads
 
@@ -45,4 +45,4 @@ Den Nutzer nach Abschluss einmal knapp und eindeutig ueber `Entwurf angelegt` be
 
 Wenn der Nutzer ausdruecklich anweist, eine Mail an den anfragenden Kunden rauszuschicken, nach dem Anlegen oder Aktualisieren des geprueften Kundenentwurfs genau einmal fragen, ob er die Mail im Postfach versendet hat. Diese einmalige Versandnachfrage ist beabsichtigt und keine erneute Erklaerung von `can_send: false`. Eine Versandfreigabe oder ein Entwurf allein darf niemals als tatsaechlicher Versand dokumentiert werden.
 
-Nach der Versandbestaetigung den Gesendet-Ordner nach Empfaenger und Betreff pruefen. Bei erfolgreicher Verifizierung den zugehoerigen Outline-Kundenvorgang und den Interessenten-Index auf `versendet` beziehungsweise `Versandauftrag erledigt` aktualisieren, Versandzeit und Nachrichten-ID dokumentieren, veraltete Entwurfsangaben bereinigen und als naechsten Schritt Kundenantwort beziehungsweise Nachfassdatum festhalten. Ist die Nachricht trotz Bestaetigung noch nicht auffindbar, die Bestaetigung dokumentieren und die technische Verifizierung als offen kennzeichnen.
+Nach der Versandbestaetigung den Gesendet-Ordner nach Empfaenger und Betreff pruefen. Bei erfolgreicher Verifizierung den zugehoerigen Kundenvorgang beziehungsweise die Opportunity und die passende Aufgabe in Twenty auf `versendet` beziehungsweise `Versandauftrag erledigt` aktualisieren, Versandzeit und Nachrichten-ID dokumentieren, veraltete Entwurfsangaben bereinigen und als naechsten Schritt Kundenantwort beziehungsweise Nachfassdatum festhalten. Ist die Nachricht trotz Bestaetigung noch nicht auffindbar, die Bestaetigung in Twenty dokumentieren und die technische Verifizierung als offen kennzeichnen.
