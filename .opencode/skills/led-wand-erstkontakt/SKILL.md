@@ -27,6 +27,7 @@ Dieser Skill führt einen neuen oder noch ungeklärten RS-LED-Lead vom Rohdatens
 16. **Vergleichbare Sportplatzabstände aus der Referenzpraxis bewerten.** Etwa 30 m Betrachtungsabstand sind bei Sportplatzanzeigen im Bereich 3 × 2 m bis 4 × 3 m für große Spielstände, Uhr, klare Vereinswappen und großflächige Sponsorenmotive plausibel. Den Abstand nicht routinemäßig erneut hinterfragen, sofern Größe, gewünschter Inhalt oder Standortgeometrie keinen Widerspruch erkennen lassen.
 17. **Keine Bilder in E-Mail-Entwürfe einfügen.** Bilder weder einbetten noch als Anhang hochladen oder dem Entwurf hinzufügen. Der Nutzer ergänzt Bilder selbst im Mailprogramm. Ein gewünschter Hinweis auf beigefügte Referenzbilder darf im Text stehen; andere Anhänge nur auf ausdrücklichen Auftrag hinzufügen.
 18. **Eine ausdrücklich gewählte hängende beziehungsweise abgehängte Montage nicht erneut öffnen.** Ohne konkreten Widerspruch nicht fragen, ob die LED-Wand dauerhaft hängen oder für Veranstaltungen auf- und abgebaut werden soll. Die richtige Erstkontaktfrage richtet sich stattdessen auf die vorhandenen Aufhänge- beziehungsweise Befestigungspunkte.
+19. **Das mechanische Raster zuerst intern prüfen.** Nicht vorsorglich fragen, ob geringe Maßanpassungen an ein Modul- oder Kabinettraster zulässig sind. Eine solche Rückfrage ist erst berechtigt, wenn eine für den Anwendungsfall konkret geeignete Serie geprüft wurde und dabei ein tatsächlicher Rasterkonflikt entstanden ist. Dem Kunden dann die konkret realisierbaren Alternativmaße nennen, statt abstrakt nach Maßtoleranz zu fragen.
 
 ## Vor dem Arbeiten lesen
 
@@ -105,7 +106,7 @@ Erst nach der Größenprüfung bewerten:
 
 #### Mechanische Raster
 
-Prüfen, ob das Wunschmaß mit verfügbaren Modul- und Kabinettgrößen exakt gebaut werden kann. Keine exakten Maße zusagen, bevor die konkrete Serie und das Kabinettraster feststehen.
+Prüfen, ob das Wunschmaß mit verfügbaren Modul- und Kabinettgrößen exakt gebaut werden kann. Diese Prüfung erfolgt zunächst intern und ist keine routinemäßige Erstkontaktfrage. Keine exakten Maße zusagen, bevor die konkrete Serie und das Kabinettraster feststehen. Nur wenn bei einer konkret geeigneten Serie tatsächlich ein Rasterkonflikt besteht, den Kunden mit den konkret realisierbaren Alternativmaßen um Entscheidung bitten. Nicht vorsorglich oder abstrakt fragen, ob geringe Maßanpassungen zulässig sind.
 
 #### Helligkeit
 
@@ -128,7 +129,7 @@ Mindestens diese Bereiche prüfen, aber nur relevante Punkte in die Mail überne
 
 - realer Betrachtungsabstand und Betrachterbewegung
 - Inhalt und gewünschte Lesbarkeit
-- Format, Ausrichtung und exaktes Maß; Konfigurator-Maße gelten als sichtbare LED-Fläche und werden nicht gegen ein Außenmaß einschließlich Blende abgefragt
+- Format, Ausrichtung und exaktes Maß; Konfigurator-Maße gelten als sichtbare LED-Fläche und werden nicht gegen ein Außenmaß einschließlich Blende abgefragt. Eine mögliche Rasteranpassung zunächst intern prüfen und nur bei einem nachgewiesenen Konflikt konkrete Alternativmaße zur Auswahl stellen
 - Licht, Fenster und Sonne
 - Festinstallation oder mobiler Einsatz, aber nicht erneut abfragen, wenn `hängend/abgehängt` bereits ausdrücklich gewählt wurde und kein konkreter Widerspruch vorliegt
 - montageartbezogene Schnittstelle: bei `hängend/abgehängt` fragen, an welchen vorhandenen Aufhänge- beziehungsweise Befestigungspunkten die Wand befestigt werden soll, ohne eine Unterkonstruktion anzusetzen; bei anderen Montagearten vorhandene Traverse oder tragfähige Anschlusspunkte klären und die Unterkonstruktion standardmäßig durch RS-LED planen und liefern
@@ -245,6 +246,7 @@ Diese Nachfrage gilt für Mails an den anfragenden Kunden, nicht routinemäßig 
 - Wurde die Auswirkung des Inhalts berücksichtigt?
 - Sind Fenster, Sonne und Helligkeit geklärt?
 - Ist das Wunschmaß gegen ein mechanisches Raster zu prüfen?
+- Wurde eine abstrakte Frage nach Maßtoleranz vermieden und nur bei einem bereits nachgewiesenen Rasterkonflikt mit konkreten Alternativmaßen nachgefasst?
 - Sind Hängung, Tragpunkt und Sekundärsicherung berücksichtigt?
 - Wird bei ausdrücklich `hängend/abgehängt` weder nach einer Unterkonstruktion noch erneut nach dauerhafter oder mobiler Nutzung gefragt, sondern nach den vorhandenen Aufhänge- beziehungsweise Befestigungspunkten?
 - Wird die Unterkonstruktion bei anderen Montagearten standardmäßig als RS-LED-Leistung behandelt und nur nach vorhandener Traverse beziehungsweise vorhandenen Anschlusspunkten gefragt?
