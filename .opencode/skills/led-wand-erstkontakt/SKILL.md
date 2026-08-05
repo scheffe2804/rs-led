@@ -28,6 +28,7 @@ Dieser Skill führt einen neuen oder noch ungeklärten RS-LED-Lead vom Rohdatens
 17. **Keine Bilder in E-Mail-Entwürfe einfügen.** Bilder weder einbetten noch als Anhang hochladen oder dem Entwurf hinzufügen. Der Nutzer ergänzt Bilder selbst im Mailprogramm. Ein gewünschter Hinweis auf beigefügte Referenzbilder darf im Text stehen; andere Anhänge nur auf ausdrücklichen Auftrag hinzufügen.
 18. **Eine ausdrücklich gewählte hängende beziehungsweise abgehängte Montage nicht erneut öffnen.** Ohne konkreten Widerspruch nicht fragen, ob die LED-Wand dauerhaft hängen oder für Veranstaltungen auf- und abgebaut werden soll. Die richtige Erstkontaktfrage richtet sich stattdessen auf die vorhandenen Aufhänge- beziehungsweise Befestigungspunkte.
 19. **Das mechanische Raster zuerst intern prüfen.** Nicht vorsorglich fragen, ob geringe Maßanpassungen an ein Modul- oder Kabinettraster zulässig sind. Eine solche Rückfrage ist erst berechtigt, wenn eine für den Anwendungsfall konkret geeignete Serie geprüft wurde und dabei ein tatsächlicher Rasterkonflikt entstanden ist. Dem Kunden dann die konkret realisierbaren Alternativmaße nennen, statt abstrakt nach Maßtoleranz zu fragen.
+20. **Interne Prüfungen durch Georg vollständig nachverfolgen.** Wird ein Erstkontakt zur Ansicht an Georg gegeben, zunächst nur den internen Entwurf dokumentieren. Einen tatsächlichen Versand erst nach Fund im Gesendet-Ordner festhalten. Versandzeit, Empfänger, Betreff und Nachrichten-ID gehören in den bestehenden Twenty-Kundenvorgang. Georgs Antwort anschließend ebenfalls im Postfach verifizieren und mit Antwortzeit, Nachrichten-ID sowie vollständigem Freigabe- oder Änderungsinhalt in Twenty dokumentieren. Solange keine Antwort vorliegt, ausdrücklich `Antwort ausstehend` festhalten und niemals eine Freigabe unterstellen.
 
 ## Vor dem Arbeiten lesen
 
@@ -227,6 +228,19 @@ Den bestehenden Kundenvorgang gezielt aktualisieren. Das konkrete Twenty-Datenmo
 
 Vor dem Anlegen neuer Firma, Person oder Opportunity immer nach einem vorhandenen Datensatz suchen und Dubletten vermeiden. Bestehende Einträge aktualisieren, statt neue Parallelvorgänge anzulegen. Plausibilitätsfehler bei den technischen Anfragedaten sichtbar als Warnung dokumentieren. Externe Erkenntnisse, neue Kalkulationsgrundlagen und Caveats zusätzlich in den dafür vorgesehenen zentralen Twenty-Wissenseinträgen pflegen.
 
+### Nachkontrolle interner Prüfmails an Georg
+
+Wenn ein Erstkontakt oder eine andere Kundenmail zuerst an Georg zur Ansicht gegeben wird:
+
+1. Den internen Prüfentwurf mit Empfänger, Betreff und vollständigem Prüftext im bestehenden Twenty-Kundenvorgang dokumentieren. Der Status bleibt `Entwurf angelegt · nicht versendet`, solange kein Versandnachweis vorliegt.
+2. Sobald der Nutzer den Entwurf im Postfach versendet hat oder eine spätere Kontrolle erforderlich ist, im Gesendet-Ordner nach Empfänger und Betreff suchen und die gefundene Nachricht vollständig prüfen.
+3. Nach erfolgreicher Verifizierung Versandzeit, Empfänger, Betreff, Nachrichten-ID und gegebenenfalls Thread-ID in der vorhandenen verknüpften Notiz dokumentieren. Opportunity und Aufgabe auf `Georgs Antwort abwarten` setzen. Veraltete Hinweise, die noch von einem unversendeten Entwurf ausgehen, bereinigen.
+4. Den Posteingang beziehungsweise den zugehörigen Thread auf Georgs Antwort prüfen. Die tatsächlich gefundene Antwort vollständig lesen und Antwortzeit, Nachrichten-ID, Betreff und vollständigen Freigabe- oder Änderungsinhalt im selben Kundenvorgang festhalten.
+5. Ist noch keine Antwort vorhanden, ausdrücklich `Antwort ausstehend` dokumentieren und eine passende offene Aufgabe beibehalten. Weder das Versenden der Prüfmail noch das Ausbleiben einer Antwort ist eine Freigabe.
+6. Erst nach einer nachgewiesenen Freigabe den nächsten Schritt auf Kundenentwurf beziehungsweise Kundenversand setzen. Enthält Georg Änderungen, zuerst Mailtext, Checklistenprüfung, Opportunity und Aufgabe konsistent aktualisieren.
+
+Keine separate, unverbundene Dokumentation für den internen Review anlegen. Prüfmail und Antwort gehören als Verlauf zum bestehenden Lead beziehungsweise Kundenvorgang.
+
 ### Versandnachkontrolle bei Kundenmails
 
 Wenn der Nutzer ausdrücklich anweist, eine Mail an den anfragenden Kunden rauszuschicken:
@@ -265,6 +279,8 @@ Diese Nachfrage gilt für Mails an den anfragenden Kunden, nicht routinemäßig 
 - Lädt der Schluss den Kunden ausdrücklich zu eigenen Fragen per E-Mail oder Telefonat ein?
 - Ist jede Aussage als Fakt, plausible Einschätzung oder offene Frage erkennbar?
 - Ist klar, dass noch nichts versendet wurde?
+- Wurden interne Prüfmails an Georg bei tatsächlichem Versand im Gesendet-Ordner verifiziert und mit Versandzeit, Empfänger, Betreff und Nachrichten-ID im bestehenden Twenty-Vorgang dokumentiert?
+- Wurde Georgs tatsächliche Antwort mit Antwortzeit, Nachrichten-ID und vollständigem Freigabe- oder Änderungsinhalt dokumentiert oder andernfalls eindeutig `Antwort ausstehend` festgehalten?
 - Wurde nach einem Versandauftrag an den anfragenden Kunden genau einmal nach dem manuellen Versand gefragt?
 - Wurden bestätigte Kundenmail-Versendungen im Gesendet-Ordner verifiziert und in Opportunity beziehungsweise Kundenvorgang sowie Versandaufgabe in Twenty als erledigt markiert?
 - Wurde Twenty aktualisiert, ohne Dubletten oder parallele Dokumentation anzulegen?
