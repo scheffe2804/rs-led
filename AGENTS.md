@@ -13,6 +13,14 @@ Leite daraus den zuletzt bearbeiteten Arbeitskontext und den sinnvollsten nächs
 
 Stelle erst dann eine gezielte Rückfrage, wenn die Prüfung keine belastbare Fortsetzung ermöglicht, mehrere wesentlich unterschiedliche Arbeitsrichtungen offen sind oder eine riskante beziehungsweise irreversible Entscheidung erforderlich wäre. Verwirf oder überschreibe niemals vorhandene Änderungen, nur um einen vermeintlich sauberen Ausgangszustand herzustellen.
 
+## Verbindliches Sitzungsprotokoll in RS-LED.md
+
+Die Datei `RS-LED.md` MUSS in jeder OpenCode-Sitzung eigenstaendig und fortlaufend mitprotokolliert werden. Zu Beginn jeder Sitzung die Datei lesen und mit dem Repository-, Twenty- und Mail-Stand abgleichen. Waehrend der Arbeit beziehungsweise spaetestens vor Sitzungsende alle wesentlichen ausgefuehrten Arbeiten, Entscheidungen, Verifizierungen, Commits, offenen Punkte, Blocker und den naechsten belastbaren Schritt nachtragen.
+
+Das Protokoll muss den tatsaechlichen Stand wiedergeben. Entwuerfe duerfen nicht als versendet, unbestaetigte Annahmen nicht als Fakten und ausstehende Antworten nicht als Freigaben dokumentiert werden. Bereits erledigte oder ueberholte Punkte sichtbar aktualisieren, statt widerspruechliche Parallelstaende stehen zu lassen.
+
+`RS-LED.md` ist das technische Sitzungs- und Uebergabeprotokoll fuer OpenCode. Twenty bleibt die alleinige verbindliche Quelle fuer CRM-Daten und die zugehoerige Wissensbasis. Kundendaten und Wissenseintraege deshalb weiterhin in Twenty pflegen und in `RS-LED.md` nur den fuer die Arbeitsfortsetzung erforderlichen Status festhalten.
+
 ## Twenty CRM und Wissensbasis
 
 Twenty ist fuer dieses Projekt die alleinige verbindliche Quelle fuer CRM-Daten und die zugehoerige Wissensbasis. Bei relevanten Aenderungen, Neuinstallationen, Erkenntnissen oder Caveats die passenden Datensaetze beziehungsweise Wissenseintraege in Twenty pflegen. Bestehende Datensaetze gezielt aktualisieren und keine parallele Dokumentation in einem anderen System anlegen.
