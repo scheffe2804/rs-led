@@ -29,9 +29,12 @@ Dieser Skill führt einen neuen oder noch ungeklärten RS-LED-Lead vom Rohdatens
 18. **Eine ausdrücklich gewählte hängende beziehungsweise abgehängte Montage nicht erneut öffnen.** Ohne konkreten Widerspruch nicht fragen, ob die LED-Wand dauerhaft hängen oder für Veranstaltungen auf- und abgebaut werden soll. Die richtige Erstkontaktfrage richtet sich stattdessen auf die vorhandenen Aufhänge- beziehungsweise Befestigungspunkte.
 19. **Das mechanische Raster zuerst intern prüfen.** Nicht vorsorglich fragen, ob geringe Maßanpassungen an ein Modul- oder Kabinettraster zulässig sind. Eine solche Rückfrage ist erst berechtigt, wenn eine für den Anwendungsfall konkret geeignete Serie geprüft wurde und dabei ein tatsächlicher Rasterkonflikt entstanden ist. Dem Kunden dann die konkret realisierbaren Alternativmaße nennen, statt abstrakt nach Maßtoleranz zu fragen.
 20. **Interne Prüfungen durch Georg vollständig nachverfolgen.** Wird ein Erstkontakt zur Ansicht an Georg gegeben, zunächst nur den internen Entwurf dokumentieren. Einen tatsächlichen Versand erst nach Fund im Gesendet-Ordner festhalten. Versandzeit, Empfänger, Betreff und Nachrichten-ID gehören in den bestehenden Twenty-Kundenvorgang. Georgs Antwort anschließend ebenfalls im Postfach verifizieren und mit Antwortzeit, Nachrichten-ID sowie vollständigem Freigabe- oder Änderungsinhalt in Twenty dokumentieren. Solange keine Antwort vorliegt, ausdrücklich `Antwort ausstehend` festhalten und niemals eine Freigabe unterstellen.
-21. **Der Betrachtungsabstand aus dem LED-Konfigurator ist der durchschnittliche Betrachtungsabstand.** Diesen Wert als beantwortet behandeln und nicht routinemäßig erneut nach typischem, kleinstem oder größtem Abstand fragen. Nur bei einem konkreten Widerspruch zwischen Abstand, Anzeigengröße, Inhalt oder Standortgeometrie nachfassen.
-22. **Keine gewünschte oder kleinste Schriftgröße abfragen.** Im Erstkontakt die vorgesehenen Inhaltsarten klären, aber den Kunden nicht zu abstrakten Schriftgrößenforderungen auffordern. Die konkrete Gestaltung und Lesbarkeit wird später aus Fläche, durchschnittlichem Betrachtungsabstand, Pitch und Inhaltslayout abgeleitet.
-23. **Lesbarkeit durch eine Glasscheibe ist keine Erstkontaktfrage.** Nicht fragen, ob die Anzeige durch Glas von außen lesbar sein soll, und keine Scheibenart abfragen. Für die Produktauswahl nur die tatsächlich relevante Lichtsituation klären, insbesondere ob direktes Sonnenlicht auf die Anzeige trifft.
+21. **Jede Kundenmail zuerst an Georg.** Jede neu verfasste E-Mail an einen externen Kunden muss ausnahmslos zuerst als interner Prüfentwurf an `g.schroejahr@rs-led.de` gehen. Vor Georgs nachgewiesener Freigabe der exakten Fassung darf kein an den Kunden adressierter Entwurf angelegt werden. Fordert Georg Änderungen oder wird der Text anschließend anderweitig inhaltlich geändert, muss die geänderte Fassung erneut zuerst an Georg.
+22. **Referenzprojekte in Kundenmails anonymisieren.** Fremde Kunden- und Projektnamen, Ansprechpartner, Angebotsnummern und interne Projektbezeichnungen niemals in einer Kundenmail nennen. Referenzbilder oder Renderings neutral als Beispiel einer `vergleichbaren Lösung` oder eines `vergleichbaren Projekts` beschreiben. In der internen Prüfmail an Georg darf die Quelle zur Zuordnung genannt werden; der eingebettete Kundenmailtext muss bereits anonymisiert sein.
+23. **Der Betrachtungsabstand aus dem LED-Konfigurator ist der durchschnittliche Betrachtungsabstand.** Diesen Wert als beantwortet behandeln und nicht routinemäßig erneut nach typischem, kleinstem oder größtem Abstand fragen. Nur bei einem konkreten Widerspruch zwischen Abstand, Anzeigengröße, Inhalt oder Standortgeometrie nachfassen.
+24. **Keine gewünschte oder kleinste Schriftgröße abfragen.** Im Erstkontakt die vorgesehenen Inhaltsarten klären, aber den Kunden nicht zu abstrakten Schriftgrößenforderungen auffordern. Die konkrete Gestaltung und Lesbarkeit wird später aus Fläche, durchschnittlichem Betrachtungsabstand, Pitch und Inhaltslayout abgeleitet.
+25. **Lesbarkeit durch eine Glasscheibe ist keine Erstkontaktfrage.** Nicht fragen, ob die Anzeige durch Glas von außen lesbar sein soll, und keine Scheibenart abfragen. Für die Produktauswahl nur die tatsächlich relevante Lichtsituation klären, insbesondere ob direktes Sonnenlicht auf die Anzeige trifft.
+26. **Bestätigten mobilen Einsatz nicht erneut als Selbstaufbaufrage öffnen.** Hat der Kunde im Konfigurator oder in einer Nachricht ausdrücklich `mobil` beziehungsweise eine mobile Montageart angegeben, gilt der regelmäßige Auf- und Abbau als beantwortet. Nicht erneut fragen, ob sein Team die Anlage regelmäßig selbst auf- und abbauen soll. Flightcases, abgestimmte Verkabelung und Einweisung bei der weiteren Planung standardmäßig berücksichtigen. Nur bei einem konkreten Widerspruch oder einer ausdrücklich gewünschten betreuten Vermietung beziehungsweise Montageleistung nachfassen.
 
 ## Vor dem Arbeiten lesen
 
@@ -137,7 +140,7 @@ Mindestens diese Bereiche prüfen, aber nur relevante Punkte in die Mail überne
 - Inhaltsarten und gewünschte Darstellung, jedoch keine kleinste oder gewünschte Schriftgröße
 - Format, Ausrichtung und exaktes Maß; Konfigurator-Maße gelten als sichtbare LED-Fläche und werden nicht gegen ein Außenmaß einschließlich Blende abgefragt. Eine mögliche Rasteranpassung zunächst intern prüfen und nur bei einem nachgewiesenen Konflikt konkrete Alternativmaße zur Auswahl stellen
 - Licht und direkte Sonne; keine Außenlesbarkeit durch Glas und keine Scheibenart abfragen
-- Festinstallation oder mobiler Einsatz, aber nicht erneut abfragen, wenn `hängend/abgehängt` bereits ausdrücklich gewählt wurde und kein konkreter Widerspruch vorliegt
+- Festinstallation oder mobiler Einsatz; eine ausdrücklich bestätigte mobile Ausführung nicht erneut durch die Frage öffnen, ob das Kundenteam regelmäßig selbst auf- und abbaut. Flightcases, Verkabelung und Einweisung dann standardmäßig berücksichtigen. Auch bei `hängend/abgehängt` die bereits gewählte Montageart nicht erneut abfragen
 - montageartbezogene Schnittstelle: bei `hängend/abgehängt` fragen, an welchen vorhandenen Aufhänge- beziehungsweise Befestigungspunkten die Wand befestigt werden soll, ohne eine Unterkonstruktion anzusetzen; bei anderen Montagearten vorhandene Traverse oder tragfähige Anschlusspunkte klären und die Unterkonstruktion standardmäßig durch RS-LED planen und liefern
 - Gewicht, Tragfähigkeitsnachweis und Sekundärsicherung
 - Blende, daraus später abgeleitetes Außenmaß, Belüftung und Wartungszugang
@@ -209,6 +212,8 @@ Bei Konfigurator-Leads außerdem weder den bereits als Durchschnittswert erfasst
 
 Nie fragen, ob es ein Eigen- oder Kundenprojekt ist, wem Grundstück, Gebäude oder Montageort gehören, ob die Aufstellung intern bereits abgestimmt wurde, wer die Unterkonstruktion übernimmt, welcher Mediaplayer gewünscht ist oder ob das Konfigurator-Maß die LED-Fläche beziehungsweise das Außenmaß einschließlich Blende bezeichnet. Bei anderen Montagearten und einer fehlenden Traverse oder fehlenden tragfähigen Anschlusspunkten ankündigen, dass RS-LED die erforderliche Unterkonstruktion mit einplant. Bei ausdrücklich `hängend/abgehängt` dagegen niemals eine Unterkonstruktion abfragen, ankündigen oder einplanen. Auch nicht erneut fragen, ob die Wand dauerhaft hängen oder für Veranstaltungen auf- und abgebaut werden soll. Stattdessen beispielsweise fragen: `An welchen vorhandenen Aufhänge- beziehungsweise Befestigungspunkten soll die abgehängte LED-Wand befestigt werden?` Der VNNOX-Mediaplayer wird ohne Rückfrage als Bestandteil des Angebots vorgesehen. Behördliche Genehmigungen und bauseitige Freigaben bei Bedarf später als kundenseitige Voraussetzung im Angebot abgrenzen.
 
+Ist eine Ausführung ausdrücklich als `mobil` bestätigt, nicht erneut fragen, ob das Kundenteam die Anlage regelmäßig selbst auf- und abbauen soll. Dies ist durch die mobile Nutzung beantwortet. Flightcases, abgestimmte Verkabelung und Einweisung ohne Rückfrage in der weiteren Planung berücksichtigen. Nur bei einem konkreten Widerspruch oder einer ausdrücklich gewünschten betreuten Vermietung beziehungsweise Montageleistung nachfassen.
+
 ### Diplomatische Plausibilitätsformulierung
 
 Wenn Größe und Entfernung nicht zusammenpassen:
@@ -235,16 +240,16 @@ Den bestehenden Kundenvorgang gezielt aktualisieren. Das konkrete Twenty-Datenmo
 
 Vor dem Anlegen neuer Firma, Person oder Opportunity immer nach einem vorhandenen Datensatz suchen und Dubletten vermeiden. Bestehende Einträge aktualisieren, statt neue Parallelvorgänge anzulegen. Plausibilitätsfehler bei den technischen Anfragedaten sichtbar als Warnung dokumentieren. Externe Erkenntnisse, neue Kalkulationsgrundlagen und Caveats zusätzlich in den dafür vorgesehenen zentralen Twenty-Wissenseinträgen pflegen.
 
-### Nachkontrolle interner Prüfmails an Georg
+### Verbindliche Vorabkontrolle jeder Kundenmail durch Georg
 
-Wenn ein Erstkontakt oder eine andere Kundenmail zuerst an Georg zur Ansicht gegeben wird:
+Jeder Erstkontakt und jede andere neu verfasste Kundenmail geht zwingend zuerst an Georg zur Ansicht. Vor seiner nachgewiesenen Freigabe der exakten Fassung wird kein kundenadressierter Entwurf angelegt:
 
 1. Den internen Prüfentwurf mit Empfänger, Betreff und vollständigem Prüftext im bestehenden Twenty-Kundenvorgang dokumentieren. Der Status bleibt `Entwurf angelegt · nicht versendet`, solange kein Versandnachweis vorliegt.
 2. Sobald der Nutzer den Entwurf im Postfach versendet hat oder eine spätere Kontrolle erforderlich ist, im Gesendet-Ordner nach Empfänger und Betreff suchen und die gefundene Nachricht vollständig prüfen.
 3. Nach erfolgreicher Verifizierung Versandzeit, Empfänger, Betreff, Nachrichten-ID und gegebenenfalls Thread-ID in der vorhandenen verknüpften Notiz dokumentieren. Opportunity und Aufgabe auf `Georgs Antwort abwarten` setzen. Veraltete Hinweise, die noch von einem unversendeten Entwurf ausgehen, bereinigen.
 4. Den Posteingang beziehungsweise den zugehörigen Thread auf Georgs Antwort prüfen. Die tatsächlich gefundene Antwort vollständig lesen und Antwortzeit, Nachrichten-ID, Betreff und vollständigen Freigabe- oder Änderungsinhalt im selben Kundenvorgang festhalten.
 5. Ist noch keine Antwort vorhanden, ausdrücklich `Antwort ausstehend` dokumentieren und eine passende offene Aufgabe beibehalten. Weder das Versenden der Prüfmail noch das Ausbleiben einer Antwort ist eine Freigabe.
-6. Erst nach einer nachgewiesenen Freigabe den nächsten Schritt auf Kundenentwurf beziehungsweise Kundenversand setzen. Enthält Georg Änderungen, zuerst Mailtext, Checklistenprüfung, Opportunity und Aufgabe konsistent aktualisieren.
+6. Erst nach einer nachgewiesenen Freigabe der exakten Fassung den nächsten Schritt auf Kundenentwurf beziehungsweise Kundenversand setzen. Enthält Georg Änderungen, zuerst Mailtext, Checklistenprüfung, Opportunity und Aufgabe konsistent aktualisieren und die geänderte Fassung erneut an Georg zur Prüfung geben. Eine Freigabe der vorherigen Fassung gilt nicht für den geänderten Text.
 
 Keine separate, unverbundene Dokumentation für den internen Review anlegen. Prüfmail und Antwort gehören als Verlauf zum bestehenden Lead beziehungsweise Kundenvorgang.
 
@@ -272,6 +277,7 @@ Diese Nachfrage gilt für Mails an den anfragenden Kunden, nicht routinemäßig 
 - Wurde eine abstrakte Frage nach Maßtoleranz vermieden und nur bei einem bereits nachgewiesenen Rasterkonflikt mit konkreten Alternativmaßen nachgefasst?
 - Sind Hängung, Tragpunkt und Sekundärsicherung berücksichtigt?
 - Wird bei ausdrücklich `hängend/abgehängt` weder nach einer Unterkonstruktion noch erneut nach dauerhafter oder mobiler Nutzung gefragt, sondern nach den vorhandenen Aufhänge- beziehungsweise Befestigungspunkten?
+- Wurde bei ausdrücklich bestätigtem mobilem Einsatz auf eine erneute Frage nach regelmäßigem Selbstaufbau verzichtet und wurden Flightcases, Verkabelung sowie Einweisung stattdessen als Planungsstandard behandelt?
 - Wird die Unterkonstruktion bei anderen Montagearten standardmäßig als RS-LED-Leistung behandelt und nur nach vorhandener Traverse beziehungsweise vorhandenen Anschlusspunkten gefragt?
 - Wurde weder nach Eigen-/Kundenprojekt noch nach dem standardmäßig enthaltenen VNNOX-Mediaplayer gefragt?
 - Wurde weder nach Eigentumsverhältnissen noch nach internen Abstimmungen mit Verein, Kommune, Eigentümer oder anderen Beteiligten gefragt?
@@ -290,6 +296,9 @@ Diese Nachfrage gilt für Mails an den anfragenden Kunden, nicht routinemäßig 
 - Ist klar, dass noch nichts versendet wurde?
 - Wurden interne Prüfmails an Georg bei tatsächlichem Versand im Gesendet-Ordner verifiziert und mit Versandzeit, Empfänger, Betreff und Nachrichten-ID im bestehenden Twenty-Vorgang dokumentiert?
 - Wurde Georgs tatsächliche Antwort mit Antwortzeit, Nachrichten-ID und vollständigem Freigabe- oder Änderungsinhalt dokumentiert oder andernfalls eindeutig `Antwort ausstehend` festgehalten?
+- Wurde vor dem Anlegen eines kundenadressierten Entwurfs Georgs Freigabe der exakten Fassung nachgewiesen?
+- Wurde nach jeder inhaltlichen Änderung erneut Georgs Freigabe eingeholt?
+- Sind fremde Kunden- und Projektnamen, Ansprechpartner, Angebotsnummern und interne Projektbezeichnungen aus dem Kundenmailtext entfernt und Referenzen neutral beschrieben?
 - Wurde nach einem Versandauftrag an den anfragenden Kunden genau einmal nach dem manuellen Versand gefragt?
 - Wurden bestätigte Kundenmail-Versendungen im Gesendet-Ordner verifiziert und in Opportunity beziehungsweise Kundenvorgang sowie Versandaufgabe in Twenty als erledigt markiert?
 - Wurde Twenty aktualisiert, ohne Dubletten oder parallele Dokumentation anzulegen?
