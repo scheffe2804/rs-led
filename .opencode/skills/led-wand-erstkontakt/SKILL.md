@@ -29,6 +29,9 @@ Dieser Skill führt einen neuen oder noch ungeklärten RS-LED-Lead vom Rohdatens
 18. **Eine ausdrücklich gewählte hängende beziehungsweise abgehängte Montage nicht erneut öffnen.** Ohne konkreten Widerspruch nicht fragen, ob die LED-Wand dauerhaft hängen oder für Veranstaltungen auf- und abgebaut werden soll. Die richtige Erstkontaktfrage richtet sich stattdessen auf die vorhandenen Aufhänge- beziehungsweise Befestigungspunkte.
 19. **Das mechanische Raster zuerst intern prüfen.** Nicht vorsorglich fragen, ob geringe Maßanpassungen an ein Modul- oder Kabinettraster zulässig sind. Eine solche Rückfrage ist erst berechtigt, wenn eine für den Anwendungsfall konkret geeignete Serie geprüft wurde und dabei ein tatsächlicher Rasterkonflikt entstanden ist. Dem Kunden dann die konkret realisierbaren Alternativmaße nennen, statt abstrakt nach Maßtoleranz zu fragen.
 20. **Interne Prüfungen durch Georg vollständig nachverfolgen.** Wird ein Erstkontakt zur Ansicht an Georg gegeben, zunächst nur den internen Entwurf dokumentieren. Einen tatsächlichen Versand erst nach Fund im Gesendet-Ordner festhalten. Versandzeit, Empfänger, Betreff und Nachrichten-ID gehören in den bestehenden Twenty-Kundenvorgang. Georgs Antwort anschließend ebenfalls im Postfach verifizieren und mit Antwortzeit, Nachrichten-ID sowie vollständigem Freigabe- oder Änderungsinhalt in Twenty dokumentieren. Solange keine Antwort vorliegt, ausdrücklich `Antwort ausstehend` festhalten und niemals eine Freigabe unterstellen.
+21. **Der Betrachtungsabstand aus dem LED-Konfigurator ist der durchschnittliche Betrachtungsabstand.** Diesen Wert als beantwortet behandeln und nicht routinemäßig erneut nach typischem, kleinstem oder größtem Abstand fragen. Nur bei einem konkreten Widerspruch zwischen Abstand, Anzeigengröße, Inhalt oder Standortgeometrie nachfassen.
+22. **Keine gewünschte oder kleinste Schriftgröße abfragen.** Im Erstkontakt die vorgesehenen Inhaltsarten klären, aber den Kunden nicht zu abstrakten Schriftgrößenforderungen auffordern. Die konkrete Gestaltung und Lesbarkeit wird später aus Fläche, durchschnittlichem Betrachtungsabstand, Pitch und Inhaltslayout abgeleitet.
+23. **Lesbarkeit durch eine Glasscheibe ist keine Erstkontaktfrage.** Nicht fragen, ob die Anzeige durch Glas von außen lesbar sein soll, und keine Scheibenart abfragen. Für die Produktauswahl nur die tatsächlich relevante Lichtsituation klären, insbesondere ob direktes Sonnenlicht auf die Anzeige trifft.
 
 ## Vor dem Arbeiten lesen
 
@@ -56,10 +59,10 @@ In einer internen Arbeitsliste erfassen:
 - Indoor oder Outdoor
 - Anwendung und Zielgruppe
 - Breite, Höhe, Fläche und Ausrichtung; Konfigurator-Maße als sichtbare LED-Fläche behandeln, eine Blende kommt zum Außenmaß hinzu
-- typischer, minimaler und maximaler Betrachtungsabstand
+- durchschnittlicher Betrachtungsabstand; bei Konfigurator-Leads den angegebenen Wert als beantwortet übernehmen, weitere Abstandsgrenzen nur bei einem konkreten Widerspruch klären
 - stehende, laufende oder vorbeifahrende Betrachter
 - Inhalte: Text, Logo, Preise, Bilder, Video oder Livebild
-- Licht, Fenster, direkte Sonne und gewünschte Helligkeit
+- Lichtsituation, direkte Sonne und gewünschte Helligkeit
 - Montageart und Blende; bei ausdrücklich `hängend/abgehängt` die vorhandenen Aufhänge- beziehungsweise Befestigungspunkte erfassen und keine Unterkonstruktion ansetzen; bei anderen Montagearten vorhandene Traverse oder tragfähige Anschlusspunkte erfassen und die Unterkonstruktion standardmäßig durch RS-LED behandeln
 - Kameraaufnahme der LED-Wand gemäß Konfiguratorfrage `Wird die Wand gefilmt?`; davon getrennt gewünschte Inhalte und eine mögliche Live-Kamerazuspielung bewerten
 - Betriebsdauer
@@ -71,6 +74,8 @@ Unklare Einheiten, vertauschte Maße oder widersprüchliche Angaben ausdrücklic
 Bei Sportplatz-Anfragen ohne gegenteiligen Hinweis intern zunächst eine einseitige Anzeige annehmen. Eine beidseitige Ausführung nur klären, wenn Anfrage, Bilder oder mehrere relevante Blickrichtungen dafür einen konkreten Anlass liefern. Ausdrücklich angegebene Unterkanten nicht erneut als mögliche Gesamthöhen hinterfragen.
 
 Das Konfiguratorfeld `Kamera: ja` stammt aus der Frage `Wird die Wand gefilmt?` und bedeutet, dass die LED-Wand bei Stream, TV, Studio oder Bühnenmitschnitt aufgenommen wird. Nicht erneut fragen, ob die Wand gefilmt oder regelmäßig mit einer Kamera aufgenommen wird. Kameratauglichkeit und eine Bildwiederholrate von mindestens 3.840 Hz als bekannte Anforderung behandeln und später gegen das konkrete Produktdatenblatt verifizieren.
+
+Das Konfiguratorfeld `Betrachtungsabstand` bezeichnet den **durchschnittlichen Betrachtungsabstand**. Den Wert nicht in einer routinemäßigen Rückfrage wieder öffnen. Eine Nachfrage ist nur zulässig, wenn die physische Sichtbarkeitsprüfung einen konkreten Widerspruch zwischen Abstand, Fläche und vorgesehenem Inhalt ergibt. Auch dann nicht nach typischem, kleinstem und größtem Abstand fragen, sondern den erkannten Widerspruch konkret benennen und die Angabe gezielt verifizieren.
 
 Davon getrennt darf nach den **auf der LED-Wand gezeigten Inhalten** gefragt werden: nur Spielstände, Ergebnisse und einfache Grafiken oder auch Vereinslogos, Sponsorenwerbung, Bilder, Videos beziehungsweise live eingespielte Kamerabilder. Diese Inhaltsfrage ist durch `Kamera: ja` nicht beantwortet. Von ihr hängen insbesondere Auflösung, Controller, Signaltechnik und Preis ab. Die Rückfrage kurz begründen: Mit diesen Angaben kann RS-LED ein Angebot mit optimalem Preis-Leistungs-Verhältnis erstellen.
 
@@ -89,11 +94,11 @@ Beispiel: 1,00 × 1,50 m aus 25 m wirkt ungefähr wie 4 × 6 cm aus 1 m. Das kan
 
 Referenzpraxis Sportplatz: Anzeigen von etwa 3 × 2 m bis 4 × 3 m sind aus rund 30 m für große Spielstände, Uhr, klare Vereinswappen und großflächige Sponsorenmotive physisch plausibel. In einem vergleichbaren Fall den Abstand nicht allein aus Routine erneut abfragen. Nur nachfassen, wenn kleinere Inhalte, wesentlich andere Entfernungen, mehrere Zuschauerbereiche oder die Standortgeometrie die Bewertung verändern.
 
-Eine Auffälligkeit diplomatisch als Rückfrage formulieren:
+Eine Auffälligkeit bei einem nicht aus dem Konfigurator stammenden Abstand diplomatisch als Rückfrage formulieren:
 
 > Ist der angegebene Abstand der typische oder nur der maximale Betrachtungsabstand?
 
-Nicht behaupten, dass etwas unmöglich ist, wenn Inhalt, Betrachterbewegung oder tatsächlicher Abstand noch unbekannt sind.
+Bei einem Konfigurator-Lead stattdessen vom angegebenen durchschnittlichen Betrachtungsabstand ausgehen und nur einen konkret erkannten Widerspruch gezielt verifizieren. Nicht behaupten, dass etwas unmöglich ist, wenn Inhalt, Betrachterbewegung oder tatsächlicher Abstand noch unbekannt sind.
 
 #### Pixelabstand und Auflösung
 
@@ -111,8 +116,8 @@ Prüfen, ob das Wunschmaß mit verfügbaren Modul- und Kabinettgrößen exakt ge
 
 #### Helligkeit
 
-- Indoor hinter Glas ist nicht automatisch eine normale Indoor-Situation.
-- Fensterorientierung, direkte Sonne, Scheibenart und Außenwirkung abfragen.
+- Die angegebene Indoor- oder Outdoor-Situation und die gewünschte Helligkeit gegen eine mögliche direkte Sonneneinstrahlung prüfen.
+- Bei Bedarf fragen, ob direktes Sonnenlicht auf die Anzeige trifft. Nicht nach Außenlesbarkeit durch Glas oder nach der Scheibenart fragen.
 - Eine gewünschte Nits-Zahl nicht ungeprüft bestätigen.
 - Black-LED und White-LED nicht nur nach Kontrast, sondern auch nach erreichbarer Helligkeit bewerten.
 
@@ -128,10 +133,10 @@ Nur Daten aufführen, die aus der Anfrage oder einer verlässlichen Quelle stamm
 
 Mindestens diese Bereiche prüfen, aber nur relevante Punkte in die Mail übernehmen:
 
-- realer Betrachtungsabstand und Betrachterbewegung
-- Inhalt und gewünschte Lesbarkeit
+- durchschnittlicher Betrachtungsabstand und Betrachterbewegung, sofern diese Angaben fehlen; den Konfiguratorwert nicht ohne konkreten Widerspruch erneut abfragen
+- Inhaltsarten und gewünschte Darstellung, jedoch keine kleinste oder gewünschte Schriftgröße
 - Format, Ausrichtung und exaktes Maß; Konfigurator-Maße gelten als sichtbare LED-Fläche und werden nicht gegen ein Außenmaß einschließlich Blende abgefragt. Eine mögliche Rasteranpassung zunächst intern prüfen und nur bei einem nachgewiesenen Konflikt konkrete Alternativmaße zur Auswahl stellen
-- Licht, Fenster und Sonne
+- Licht und direkte Sonne; keine Außenlesbarkeit durch Glas und keine Scheibenart abfragen
 - Festinstallation oder mobiler Einsatz, aber nicht erneut abfragen, wenn `hängend/abgehängt` bereits ausdrücklich gewählt wurde und kein konkreter Widerspruch vorliegt
 - montageartbezogene Schnittstelle: bei `hängend/abgehängt` fragen, an welchen vorhandenen Aufhänge- beziehungsweise Befestigungspunkten die Wand befestigt werden soll, ohne eine Unterkonstruktion anzusetzen; bei anderen Montagearten vorhandene Traverse oder tragfähige Anschlusspunkte klären und die Unterkonstruktion standardmäßig durch RS-LED planen und liefern
 - Gewicht, Tragfähigkeitsnachweis und Sekundärsicherung
@@ -154,7 +159,7 @@ Den Lead auf **noch nicht angebotsreif** setzen, wenn mindestens einer dieser Pu
 
 - Anwendung oder Inhalt ist unklar
 - Wandgröße und Betrachtungsabstand wirken unplausibel
-- Innenraum, Schaufenster oder direkte Sonne ist nicht geklärt
+- die für die Helligkeitsauslegung relevante Lichtsituation beziehungsweise direkte Sonne ist nicht geklärt
 - Maß/Ausrichtung ist nicht bestätigt oder nicht gegen das Kabinettraster geprüft
 - Montage- und Tragwerksschnittstelle zum Gebäude beziehungsweise zum bauseitigen Tragpunkt ist unklar
 - eine ausdrücklich gewünschte Sonderzuspielung oder ein besonderer Signalweg ist unklar
@@ -182,7 +187,7 @@ Erst nach Auflösung der Blocker Produkt, Lieferzeit, Marge oder Endpreis festle
 
 Die Mail soll normalerweise vier bis sieben leicht beantwortbare Fragen enthalten. Zuerst fragen, was die Produktauswahl wesentlich verändert:
 
-1. Entfernung und Zielgruppe
+1. durchschnittliche Entfernung und Zielgruppe, sofern nicht bereits im Konfigurator beantwortet oder nur bei einem konkreten Widerspruch zu verifizieren
 2. Inhalte
 3. Licht und Einbauort
 4. Format und Mechanik
@@ -200,13 +205,15 @@ Bei Sportplatz-Leads gelten zusätzlich diese Prioritäten:
 
 Die Antwortschwelle im Erstkontakt niedrig halten. Keine Fotos, Lagepläne, Skizzen, Aufmaße oder anderen Unterlagen verlangen, sofern sie nicht ausnahmsweise schon für die erste Grundauswahl unverzichtbar sind. Solche Unterlagen erst nach einer ersten positiven Kundenantwort für die konkrete Planung anfordern. Fragen zu Strom, Unterkante, Ballaufprall, Montagezugang, Service oder Kabellängen nur sofort aufnehmen, wenn sie akut über die grundsätzliche Machbarkeit entscheiden; andernfalls in eine zweite Planungsstufe verschieben. So bleibt der Lead auch dann antwortfähig, wenn ihn die Mail unterwegs oder ohne Zugriff auf Projektunterlagen erreicht.
 
+Bei Konfigurator-Leads außerdem weder den bereits als Durchschnittswert erfassten Betrachtungsabstand routinemäßig erneut öffnen noch eine kleinste oder gewünschte Schriftgröße erfragen. Die Inhaltsfrage auf Inhaltsarten wie kurze Texte, mehrere Textzeilen, Logos, Bilder oder Videos beschränken. Bei Indoor-Anfragen darf direkte Sonneneinstrahlung geklärt werden; Fragen nach der Lesbarkeit durch eine Glasscheibe oder nach der Scheibenart entfallen.
+
 Nie fragen, ob es ein Eigen- oder Kundenprojekt ist, wem Grundstück, Gebäude oder Montageort gehören, ob die Aufstellung intern bereits abgestimmt wurde, wer die Unterkonstruktion übernimmt, welcher Mediaplayer gewünscht ist oder ob das Konfigurator-Maß die LED-Fläche beziehungsweise das Außenmaß einschließlich Blende bezeichnet. Bei anderen Montagearten und einer fehlenden Traverse oder fehlenden tragfähigen Anschlusspunkten ankündigen, dass RS-LED die erforderliche Unterkonstruktion mit einplant. Bei ausdrücklich `hängend/abgehängt` dagegen niemals eine Unterkonstruktion abfragen, ankündigen oder einplanen. Auch nicht erneut fragen, ob die Wand dauerhaft hängen oder für Veranstaltungen auf- und abgebaut werden soll. Stattdessen beispielsweise fragen: `An welchen vorhandenen Aufhänge- beziehungsweise Befestigungspunkten soll die abgehängte LED-Wand befestigt werden?` Der VNNOX-Mediaplayer wird ohne Rückfrage als Bestandteil des Angebots vorgesehen. Behördliche Genehmigungen und bauseitige Freigaben bei Bedarf später als kundenseitige Voraussetzung im Angebot abgrenzen.
 
 ### Diplomatische Plausibilitätsformulierung
 
 Wenn Größe und Entfernung nicht zusammenpassen:
 
-> Sie haben einen Betrachtungsabstand von etwa {Abstand} angegeben. Ist das der typische Abstand oder nur der maximale Abstand? Bei einer Anzeigefläche von {Breite} × {Höhe} wären aus dieser Entfernung voraussichtlich nur kurze, sehr groß gesetzte Texte oder einfache Logos gut erfassbar.
+> Sie haben im Konfigurator einen durchschnittlichen Betrachtungsabstand von etwa {Abstand} angegeben. Bei einer Anzeigefläche von {Breite} × {Höhe} wären aus dieser Entfernung voraussichtlich nur kurze, sehr groß gesetzte Texte oder einfache Logos gut erfassbar. Ist der angegebene Durchschnittsabstand für die geplante Nutzung weiterhin korrekt?
 
 Keine feste Aussage zur Eignung treffen, bevor Inhalt und realer Abstand beantwortet wurden.
 
@@ -258,7 +265,9 @@ Diese Nachfrage gilt für Mails an den anfragenden Kunden, nicht routinemäßig 
 
 - Sind Wandgröße und Betrachtungsabstand getrennt vom Pitch geprüft?
 - Wurde die Auswirkung des Inhalts berücksichtigt?
-- Sind Fenster, Sonne und Helligkeit geklärt?
+- Wurde der Konfiguratorwert als durchschnittlicher Betrachtungsabstand behandelt und nicht ohne konkreten Widerspruch erneut abgefragt?
+- Wurde auf eine Frage nach kleinster oder gewünschter Schriftgröße verzichtet?
+- Sind direkte Sonne und Helligkeit geklärt, ohne nach Außenlesbarkeit durch Glas oder nach der Scheibenart zu fragen?
 - Ist das Wunschmaß gegen ein mechanisches Raster zu prüfen?
 - Wurde eine abstrakte Frage nach Maßtoleranz vermieden und nur bei einem bereits nachgewiesenen Rasterkonflikt mit konkreten Alternativmaßen nachgefasst?
 - Sind Hängung, Tragpunkt und Sekundärsicherung berücksichtigt?
