@@ -33,8 +33,9 @@ Dieser Skill führt einen neuen oder noch ungeklärten RS-LED-Lead vom Rohdatens
 22. **Referenzprojekte in Kundenmails anonymisieren.** Fremde Kunden- und Projektnamen, Ansprechpartner, Angebotsnummern und interne Projektbezeichnungen niemals in einer Kundenmail nennen. Referenzbilder oder Renderings neutral als Beispiel einer `vergleichbaren Lösung` oder eines `vergleichbaren Projekts` beschreiben. In der internen Prüfmail an Georg darf die Quelle zur Zuordnung genannt werden; der eingebettete Kundenmailtext muss bereits anonymisiert sein.
 23. **Der Betrachtungsabstand aus dem LED-Konfigurator ist der durchschnittliche Betrachtungsabstand.** Diesen Wert als beantwortet behandeln und nicht routinemäßig erneut nach typischem, kleinstem oder größtem Abstand fragen. Nur bei einem konkreten Widerspruch zwischen Abstand, Anzeigengröße, Inhalt oder Standortgeometrie nachfassen.
 24. **Keine gewünschte oder kleinste Schriftgröße abfragen.** Im Erstkontakt die vorgesehenen Inhaltsarten klären, aber den Kunden nicht zu abstrakten Schriftgrößenforderungen auffordern. Die konkrete Gestaltung und Lesbarkeit wird später aus Fläche, durchschnittlichem Betrachtungsabstand, Pitch und Inhaltslayout abgeleitet.
-25. **Lesbarkeit durch eine Glasscheibe ist keine Erstkontaktfrage.** Nicht fragen, ob die Anzeige durch Glas von außen lesbar sein soll, und keine Scheibenart abfragen. Für die Produktauswahl nur die tatsächlich relevante Lichtsituation klären, insbesondere ob direktes Sonnenlicht auf die Anzeige trifft.
+25. **Direkte Sonneneinstrahlung bei Konfigurator-Leads nicht erneut abfragen.** Der LED-Konfigurator fragt die Sonneneinstrahlung bereits ab. Die Antwort aus der Originalanfrage übernehmen und für die Helligkeitsauslegung verwenden. Fehlt sie in einem normalisierten CRM-Datensatz, zuerst Originalmail beziehungsweise vollständige Formulardaten prüfen und die Übertragungslücke intern dokumentieren, statt den Kunden erneut nach Sonne zu fragen. Auch nicht fragen, ob die Anzeige durch Glas von außen lesbar sein soll, und keine Scheibenart abfragen. Nur bei Anfragen, die nachweislich nicht aus dem Konfigurator stammen und keine Lichtangabe enthalten, darf die relevante Lichtsituation gezielt geklärt werden.
 26. **Bestätigten mobilen Einsatz nicht erneut als Selbstaufbaufrage öffnen.** Hat der Kunde im Konfigurator oder in einer Nachricht ausdrücklich `mobil` beziehungsweise eine mobile Montageart angegeben, gilt der regelmäßige Auf- und Abbau als beantwortet. Nicht erneut fragen, ob sein Team die Anlage regelmäßig selbst auf- und abbauen soll. Flightcases, abgestimmte Verkabelung und Einweisung bei der weiteren Planung standardmäßig berücksichtigen. Nur bei einem konkreten Widerspruch oder einer ausdrücklich gewünschten betreuten Vermietung beziehungsweise Montageleistung nachfassen.
+27. **Direkte Mails an potenzielle Kunden immer mit Georg in BCC.** Jede E-Mail, die direkt an einen potenziellen Kunden adressiert ist, muss `g.schroejahr@rs-led.de` in BCC enthalten. Das gilt ausnahmslos für Erstkontakte, Antworten, Angebote, Nachfassmails, Terminabstimmungen und Weiterleitungen an den potenziellen Kunden. Georgs vorherige Freigabe der exakten Fassung ersetzt die BCC-Pflicht nicht. Ein kundenadressierter Entwurf ohne Georg in BCC ist nicht sendefertig. Interne Prüfentwürfe ausschließlich an Georg benötigen ihn nicht zusätzlich in BCC.
 
 ## Vor dem Arbeiten lesen
 
@@ -65,7 +66,7 @@ In einer internen Arbeitsliste erfassen:
 - durchschnittlicher Betrachtungsabstand; bei Konfigurator-Leads den angegebenen Wert als beantwortet übernehmen, weitere Abstandsgrenzen nur bei einem konkreten Widerspruch klären
 - stehende, laufende oder vorbeifahrende Betrachter
 - Inhalte: Text, Logo, Preise, Bilder, Video oder Livebild
-- Lichtsituation, direkte Sonne und gewünschte Helligkeit
+- Konfiguratorantwort zu direkter Sonne und gewünschter Helligkeit; bei Konfigurator-Leads aus der Originalanfrage übernehmen und nicht erneut abfragen
 - Montageart und Blende; bei ausdrücklich `hängend/abgehängt` die vorhandenen Aufhänge- beziehungsweise Befestigungspunkte erfassen und keine Unterkonstruktion ansetzen; bei anderen Montagearten vorhandene Traverse oder tragfähige Anschlusspunkte erfassen und die Unterkonstruktion standardmäßig durch RS-LED behandeln
 - Kameraaufnahme der LED-Wand gemäß Konfiguratorfrage `Wird die Wand gefilmt?`; davon getrennt gewünschte Inhalte und eine mögliche Live-Kamerazuspielung bewerten
 - Betriebsdauer
@@ -119,8 +120,8 @@ Prüfen, ob das Wunschmaß mit verfügbaren Modul- und Kabinettgrößen exakt ge
 
 #### Helligkeit
 
-- Die angegebene Indoor- oder Outdoor-Situation und die gewünschte Helligkeit gegen eine mögliche direkte Sonneneinstrahlung prüfen.
-- Bei Bedarf fragen, ob direktes Sonnenlicht auf die Anzeige trifft. Nicht nach Außenlesbarkeit durch Glas oder nach der Scheibenart fragen.
+- Die angegebene Indoor- oder Outdoor-Situation und die gewünschte Helligkeit gegen die im Konfigurator bereits beantwortete Sonneneinstrahlung prüfen.
+- Bei Konfigurator-Leads niemals erneut fragen, ob direktes Sonnenlicht auf die Anzeige trifft. Fehlt die Angabe im CRM, Originalmail beziehungsweise vollständige Formulardaten prüfen und die Übertragungslücke intern dokumentieren. Nur bei einer Anfrage außerhalb des Konfigurators ohne Lichtangabe darf die relevante Lichtsituation gezielt geklärt werden. Nicht nach Außenlesbarkeit durch Glas oder nach der Scheibenart fragen.
 - Eine gewünschte Nits-Zahl nicht ungeprüft bestätigen.
 - Black-LED und White-LED nicht nur nach Kontrast, sondern auch nach erreichbarer Helligkeit bewerten.
 
@@ -139,7 +140,7 @@ Mindestens diese Bereiche prüfen, aber nur relevante Punkte in die Mail überne
 - durchschnittlicher Betrachtungsabstand und Betrachterbewegung, sofern diese Angaben fehlen; den Konfiguratorwert nicht ohne konkreten Widerspruch erneut abfragen
 - Inhaltsarten und gewünschte Darstellung, jedoch keine kleinste oder gewünschte Schriftgröße
 - Format, Ausrichtung und exaktes Maß; Konfigurator-Maße gelten als sichtbare LED-Fläche und werden nicht gegen ein Außenmaß einschließlich Blende abgefragt. Eine mögliche Rasteranpassung zunächst intern prüfen und nur bei einem nachgewiesenen Konflikt konkrete Alternativmaße zur Auswahl stellen
-- Licht und direkte Sonne; keine Außenlesbarkeit durch Glas und keine Scheibenart abfragen
+- Licht und direkte Sonne nur bei Anfragen außerhalb des Konfigurators klären. Bei Konfigurator-Leads die bereits vorhandene Antwort übernehmen und niemals erneut nach Sonneneinstrahlung, Außenlesbarkeit durch Glas oder Scheibenart fragen
 - Festinstallation oder mobiler Einsatz; eine ausdrücklich bestätigte mobile Ausführung nicht erneut durch die Frage öffnen, ob das Kundenteam regelmäßig selbst auf- und abbaut. Flightcases, Verkabelung und Einweisung dann standardmäßig berücksichtigen. Auch bei `hängend/abgehängt` die bereits gewählte Montageart nicht erneut abfragen
 - montageartbezogene Schnittstelle: bei `hängend/abgehängt` fragen, an welchen vorhandenen Aufhänge- beziehungsweise Befestigungspunkten die Wand befestigt werden soll, ohne eine Unterkonstruktion anzusetzen; bei anderen Montagearten vorhandene Traverse oder tragfähige Anschlusspunkte klären und die Unterkonstruktion standardmäßig durch RS-LED planen und liefern
 - Gewicht, Tragfähigkeitsnachweis und Sekundärsicherung
@@ -162,7 +163,7 @@ Den Lead auf **noch nicht angebotsreif** setzen, wenn mindestens einer dieser Pu
 
 - Anwendung oder Inhalt ist unklar
 - Wandgröße und Betrachtungsabstand wirken unplausibel
-- die für die Helligkeitsauslegung relevante Lichtsituation beziehungsweise direkte Sonne ist nicht geklärt
+- die für die Helligkeitsauslegung relevante Lichtsituation ist bei einer Anfrage außerhalb des Konfigurators nicht geklärt; bei Konfigurator-Leads eine fehlende Übertragung zuerst aus Originalmail beziehungsweise vollständigen Formulardaten ergänzen und nicht durch eine erneute Kundenfrage ersetzen
 - Maß/Ausrichtung ist nicht bestätigt oder nicht gegen das Kabinettraster geprüft
 - Montage- und Tragwerksschnittstelle zum Gebäude beziehungsweise zum bauseitigen Tragpunkt ist unklar
 - eine ausdrücklich gewünschte Sonderzuspielung oder ein besonderer Signalweg ist unklar
@@ -188,11 +189,11 @@ Erst nach Auflösung der Blocker Produkt, Lieferzeit, Marge oder Endpreis festle
 
 ### Priorisierung
 
-Die Mail soll normalerweise vier bis sieben leicht beantwortbare Fragen enthalten. Zuerst fragen, was die Produktauswahl wesentlich verändert:
+Die Mail soll normalerweise drei bis sieben leicht beantwortbare Fragen enthalten. Zuerst fragen, was die Produktauswahl wesentlich verändert:
 
 1. durchschnittliche Entfernung und Zielgruppe, sofern nicht bereits im Konfigurator beantwortet oder nur bei einem konkreten Widerspruch zu verifizieren
 2. Inhalte
-3. Licht und Einbauort
+3. Licht und Einbauort nur bei Anfragen außerhalb des Konfigurators, wenn diese Angaben tatsächlich fehlen
 4. Format und Mechanik
 5. montageartbezogene Schnittstelle: bei `hängend/abgehängt` die vorhandenen Aufhänge- beziehungsweise Befestigungspunkte, ansonsten vorhandene Traverse oder tragfähige Anschlusspunkte
 6. Montagezugang, wenn er für die Ausführung entscheidend ist
@@ -208,7 +209,7 @@ Bei Sportplatz-Leads gelten zusätzlich diese Prioritäten:
 
 Die Antwortschwelle im Erstkontakt niedrig halten. Keine Fotos, Lagepläne, Skizzen, Aufmaße oder anderen Unterlagen verlangen, sofern sie nicht ausnahmsweise schon für die erste Grundauswahl unverzichtbar sind. Solche Unterlagen erst nach einer ersten positiven Kundenantwort für die konkrete Planung anfordern. Fragen zu Strom, Unterkante, Ballaufprall, Montagezugang, Service oder Kabellängen nur sofort aufnehmen, wenn sie akut über die grundsätzliche Machbarkeit entscheiden; andernfalls in eine zweite Planungsstufe verschieben. So bleibt der Lead auch dann antwortfähig, wenn ihn die Mail unterwegs oder ohne Zugriff auf Projektunterlagen erreicht.
 
-Bei Konfigurator-Leads außerdem weder den bereits als Durchschnittswert erfassten Betrachtungsabstand routinemäßig erneut öffnen noch eine kleinste oder gewünschte Schriftgröße erfragen. Die Inhaltsfrage auf Inhaltsarten wie kurze Texte, mehrere Textzeilen, Logos, Bilder oder Videos beschränken. Bei Indoor-Anfragen darf direkte Sonneneinstrahlung geklärt werden; Fragen nach der Lesbarkeit durch eine Glasscheibe oder nach der Scheibenart entfallen.
+Bei Konfigurator-Leads außerdem weder den bereits als Durchschnittswert erfassten Betrachtungsabstand routinemäßig erneut öffnen noch eine kleinste oder gewünschte Schriftgröße erfragen. Die Inhaltsfrage auf Inhaltsarten wie kurze Texte, mehrere Textzeilen, Logos, Bilder oder Videos beschränken. Direkte Sonneneinstrahlung wird im Konfigurator abgefragt und darf weder bei Indoor- noch bei Outdoor-Anfragen erneut erfragt werden. Fehlt die Antwort im CRM, die Originalanfrage prüfen und die Übertragungslücke intern dokumentieren. Fragen nach der Lesbarkeit durch eine Glasscheibe oder nach der Scheibenart entfallen ebenfalls.
 
 Nie fragen, ob es ein Eigen- oder Kundenprojekt ist, wem Grundstück, Gebäude oder Montageort gehören, ob die Aufstellung intern bereits abgestimmt wurde, wer die Unterkonstruktion übernimmt, welcher Mediaplayer gewünscht ist oder ob das Konfigurator-Maß die LED-Fläche beziehungsweise das Außenmaß einschließlich Blende bezeichnet. Bei anderen Montagearten und einer fehlenden Traverse oder fehlenden tragfähigen Anschlusspunkten ankündigen, dass RS-LED die erforderliche Unterkonstruktion mit einplant. Bei ausdrücklich `hängend/abgehängt` dagegen niemals eine Unterkonstruktion abfragen, ankündigen oder einplanen. Auch nicht erneut fragen, ob die Wand dauerhaft hängen oder für Veranstaltungen auf- und abgebaut werden soll. Stattdessen beispielsweise fragen: `An welchen vorhandenen Aufhänge- beziehungsweise Befestigungspunkten soll die abgehängte LED-Wand befestigt werden?` Der VNNOX-Mediaplayer wird ohne Rückfrage als Bestandteil des Angebots vorgesehen. Behördliche Genehmigungen und bauseitige Freigaben bei Bedarf später als kundenseitige Voraussetzung im Angebot abgrenzen.
 
@@ -257,7 +258,7 @@ Keine separate, unverbundene Dokumentation für den internen Review anlegen. Pr�
 
 Wenn der Nutzer ausdrücklich anweist, eine Mail an den anfragenden Kunden rauszuschicken:
 
-1. Den vollständigen Kundenentwurf im Postfach anlegen oder aktualisieren und Empfänger, Betreff, Text- und HTML-Fassung, CC und BCC prüfen. Keine Bilder selbst einbetten oder anhängen; sie werden vom Nutzer ergänzt. Andere ausdrücklich beauftragte Anhänge prüfen.
+1. Den vollständigen Kundenentwurf im Postfach anlegen oder aktualisieren und Empfänger, Betreff, Text- und HTML-Fassung sowie CC prüfen. Georg unter `g.schroejahr@rs-led.de` ausnahmslos in BCC setzen und diesen BCC-Eintrag verifizieren. Keine Bilder selbst einbetten oder anhängen; sie werden vom Nutzer ergänzt. Andere ausdrücklich beauftragte Anhänge prüfen.
 2. Danach genau einmal fragen: `Hast du die Mail im Postfach versendet?`
 3. Bis zur Bestätigung beziehungsweise Verifizierung im Gesendet-Ordner nur `Entwurf angelegt · nicht versendet` dokumentieren. Niemals allein aus Versandauftrag oder Entwurfsstatus einen tatsächlichen Versand ableiten.
 4. Nach der Bestätigung im Gesendet-Ordner nach Empfänger und Betreff suchen und die gefundene Nachricht vollständig prüfen. Falls sie noch nicht auffindbar ist, die Nutzerbestätigung dokumentieren und die technische Verifizierung als offen kennzeichnen.
@@ -272,7 +273,7 @@ Diese Nachfrage gilt für Mails an den anfragenden Kunden, nicht routinemäßig 
 - Wurde die Auswirkung des Inhalts berücksichtigt?
 - Wurde der Konfiguratorwert als durchschnittlicher Betrachtungsabstand behandelt und nicht ohne konkreten Widerspruch erneut abgefragt?
 - Wurde auf eine Frage nach kleinster oder gewünschter Schriftgröße verzichtet?
-- Sind direkte Sonne und Helligkeit geklärt, ohne nach Außenlesbarkeit durch Glas oder nach der Scheibenart zu fragen?
+- Wurde bei einem Konfigurator-Lead die vorhandene Antwort zur direkten Sonne übernommen, ohne Sonneneinstrahlung, Außenlesbarkeit durch Glas oder Scheibenart erneut abzufragen?
 - Ist das Wunschmaß gegen ein mechanisches Raster zu prüfen?
 - Wurde eine abstrakte Frage nach Maßtoleranz vermieden und nur bei einem bereits nachgewiesenen Rasterkonflikt mit konkreten Alternativmaßen nachgefasst?
 - Sind Hängung, Tragpunkt und Sekundärsicherung berücksichtigt?
@@ -289,7 +290,7 @@ Diese Nachfrage gilt für Mails an den anfragenden Kunden, nicht routinemäßig 
 - Wurde eine ausdrücklich angegebene Unterkante ohne unnötige Rückfrage übernommen?
 - Wurde ein plausibler Sportplatzabstand von etwa 30 m nicht nur aus Routine erneut abgefragt?
 - Wurden bei fehlenden Stammdaten Angebotsempfänger und Montageadresse erfragt?
-- Enthält die Mail nur die wichtigsten vier bis sieben, ohne Unterlagen direkt beantwortbaren Fragen?
+- Enthält die Mail nur die wichtigsten drei bis sieben, ohne Unterlagen direkt beantwortbaren Fragen?
 - Wurden Fotos, Lagepläne, Aufmaße sowie nachgelagerte Detailfragen zu Strom, Unterkante, Ballaufprall und Montagezugang möglichst in die zweite Planungsstufe verschoben?
 - Lädt der Schluss den Kunden ausdrücklich zu eigenen Fragen per E-Mail oder Telefonat ein?
 - Ist jede Aussage als Fakt, plausible Einschätzung oder offene Frage erkennbar?
@@ -298,6 +299,7 @@ Diese Nachfrage gilt für Mails an den anfragenden Kunden, nicht routinemäßig 
 - Wurde Georgs tatsächliche Antwort mit Antwortzeit, Nachrichten-ID und vollständigem Freigabe- oder Änderungsinhalt dokumentiert oder andernfalls eindeutig `Antwort ausstehend` festgehalten?
 - Wurde vor dem Anlegen eines kundenadressierten Entwurfs Georgs Freigabe der exakten Fassung nachgewiesen?
 - Wurde nach jeder inhaltlichen Änderung erneut Georgs Freigabe eingeholt?
+- Ist bei jeder direkt an einen potenziellen Kunden adressierten Mail Georg unter `g.schroejahr@rs-led.de` in BCC eingetragen und wurde dieser BCC-Eintrag vor Abschluss verifiziert?
 - Sind fremde Kunden- und Projektnamen, Ansprechpartner, Angebotsnummern und interne Projektbezeichnungen aus dem Kundenmailtext entfernt und Referenzen neutral beschrieben?
 - Wurde nach einem Versandauftrag an den anfragenden Kunden genau einmal nach dem manuellen Versand gefragt?
 - Wurden bestätigte Kundenmail-Versendungen im Gesendet-Ordner verifiziert und in Opportunity beziehungsweise Kundenvorgang sowie Versandaufgabe in Twenty als erledigt markiert?
