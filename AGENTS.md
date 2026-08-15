@@ -1,5 +1,11 @@
 # Arbeitsfortsetzung in neuen Sitzungen
 
+## Fortlaufende Commit- und Push-Freigabe fuer den RS-LED-Arbeitsblock
+
+Der Nutzer hat am 15.08.2026 den fortlaufenden Arbeitsblock fuer den laufenden RS-LED-Scope ausdruecklich freigegeben. Abgeschlossene Teilbloecke innerhalb dieses Scopes selbststaendig committen und auf den bestehenden Upstream pushen; nicht nach jedem Teilblock erneut um Zustimmung bitten.
+
+Nur bei einem Wechsel von Scope, Risiko, Zielsystem oder Datenquelle erneut nach einer ausdruecklichen Commit- beziehungsweise Push-Freigabe fragen. Vor jedem Commit weiterhin Status, Diff und letzte Commits pruefen, nur beabsichtigte Dateien stagen und niemals Secrets committen. Keine Force-Pushes und keine Aenderung der Git-Konfiguration.
+
 Wenn eine neue OpenCode-Sitzung in diesem Verzeichnis beginnt oder der Nutzer ohne weiteren Kontext sinngemäß „weiter“ sagt, frage nicht zuerst, womit du weitermachen sollst.
 
 Prüfe stattdessen selbstständig den aktuellen Arbeitsstand im Repository, insbesondere:
