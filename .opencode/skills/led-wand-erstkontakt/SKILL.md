@@ -279,6 +279,8 @@ Wenn der Nutzer ausdrücklich anweist, eine Mail an den anfragenden Kunden rausz
 6. Nach erfolgreicher Verifizierung die Opportunity beziehungsweise den Kundenvorgang und die zugehörige Versandaufgabe in Twenty als erledigt markieren. Versandzeit, Empfänger, Betreff und Nachrichten-ID festhalten; veraltete Entwurfs- oder Versandhinweise entfernen beziehungsweise eindeutig als überholt kennzeichnen.
 7. Den nächsten Schritt auf `Kundenantwort abwarten` setzen und ein sinnvolles Nachfassdatum dokumentieren.
 
+Bulwark kann beim Versand `body_text` aus dem HTML neu erzeugen und dabei die sichtbaren Ziffern einer nummerierten Liste entfernen. Sind alle Listenelemente in unveränderter Reihenfolge vorhanden und enthält das HTML weiterhin die vollständige nummerierte Liste, ist dies keine inhaltliche Abweichung. Bei der Versandkontrolle deshalb Text und HTML semantisch vergleichen und die Listendarstellung anhand der `<li>`-Elemente im HTML prüfen.
+
 Diese Nachfrage gilt für Mails an den anfragenden Kunden, nicht routinemäßig für interne Prüf- oder Weiterleitungsmails. `can_send: false` dabei nicht erneut erklären; die einmalige Frage dient ausschließlich dem Abgleich des tatsächlichen Versandstatus.
 
 ## Selbstprüfung vor Ausgabe
@@ -321,6 +323,7 @@ Diese Nachfrage gilt für Mails an den anfragenden Kunden, nicht routinemäßig 
 - Enthält der Entwurf neben der Klartextfassung eine echte, gültige HTML-Fassung mit Absatz-Markup und expliziter Standardschrift, statt bloßen Klartext in `body_html` zu duplizieren?
 - Stimmen Klartext- und HTML-Fassung des freigegebenen Nachrichtentexts inhaltlich überein? Ist ein interner Prüfentwurf unsigniert beziehungsweise enthält ein kundenadressierter Bulwark-Entwurf die verbindliche Signatur in beiden Fassungen genau einmal als Suffix?
 - Enthält ein signierter Bulwark-Kundenentwurf Start-, Block- und Endmarker jeweils genau einmal, keine sichtbare `--`-Trennzeile und keine zweite Signatur?
+- Wurde bei einer von Bulwark normalisierten Klartextalternative zwischen fehlenden Listenziffern und tatsächlich fehlenden beziehungsweise veränderten Listenelementen unterschieden und die nummerierte Darstellung am HTML geprüft?
 - Wurde bei einem Outlook-Änderungskonflikt nach lokaler Signaturergänzung der bestätigte Ablauf aus manuellem Speichern, Schließen, Synchronisieren, erneutem Öffnen und unverändertem Senden verwendet, ohne Profil oder OST ungefragt zurückzusetzen?
 - Sind fremde Kunden- und Projektnamen, Ansprechpartner, Angebotsnummern und interne Projektbezeichnungen aus dem Kundenmailtext entfernt und Referenzen neutral beschrieben?
 - Wurde nach einem Versandauftrag an den anfragenden Kunden genau einmal nach dem manuellen Versand gefragt?
