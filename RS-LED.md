@@ -226,6 +226,7 @@ Diese Datei ist das fortlaufende technische Sitzungs- und Uebergabeprotokoll fue
 - Die neuen Regeln fuer beidseitige Anzeigen, der aktuelle Dieker-Entwurfsstand sowie die vollstaendige Itzenga-Pruefung und CRM-Fortsetzung wurden mit Commit `d3fea83` festgehalten.
 - Georgs verifizierte Dieker-Freigabe und der korrigierte Itzenga-Drei-Fragen-Entwurf wurden mit Commit `1e6e16b` festgehalten.
 - Die automatische Kundenentwurfsanlage nach Georgs eindeutigem Okay und der sendefertige Dieker-Kundenentwurf wurden mit Commit `820765b` festgehalten.
+- Die bytegenauen Bulwark-Signaturquellen, der signierte Dieker-Ersatzentwurf, die dauerhafte Doppel-Signatur-Praevention und Georgs Itzenga-Aenderungsantwort samt erneut korrigiertem Pruefentwurf wurden mit Commit `5c64523` festgehalten.
 
 ## Offene Punkte
 
