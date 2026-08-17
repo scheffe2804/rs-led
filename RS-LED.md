@@ -217,6 +217,7 @@ Diese Datei ist das fortlaufende technische Sitzungs- und Uebergabeprotokoll fue
 - Der fruehere Itzenga-Fuenf-Fragen-Entwurf `bnmaaaall`, Thread `ll`, ist ueberholt und wurde verifiziert in den Papierkorb verschoben. Auf Nutzeranweisung entfallen die Frage nach Echtheit/Aktualitaet und die Frage nach dem Fertigstellungstermin.
 - Der korrigierte interne Itzenga-Pruefentwurf wurde vollstaendig rueckgelesen: Draft-ID `bnqaaaalm`, Thread-ID `lm`, Betreff `Korrigiert zur Prüfung: Erstkontakt Jürgen Itzenga / Outdoor-Bühnenwand`, ausschliesslich an `g.schroejahr@rs-led.de`, kein CC/BCC, keine Anhaenge, keine manuelle Signatur und im Entwurfsordner. Klartext und echtes HTML mit Aptos/Arial/Helvetica stimmen inhaltlich ueberein. Die aktuelle Kundenfassung enthaelt genau drei neu nummerierte Fragen: Inhaltsarten beziehungsweise externes Live-Signal, Material und tragfaehige Anschlusspunkte der Montagewand sowie Angebotsempfaenger und Liefer-/Montageadresse. Bekannte Konfiguratorangaben werden nicht erneut abgefragt. Status: Entwurf angelegt, nicht versendet; Georgs Antwort/Freigabe ausstehend.
 - Die neuen Regeln fuer beidseitige Anzeigen, der aktuelle Dieker-Entwurfsstand sowie die vollstaendige Itzenga-Pruefung und CRM-Fortsetzung wurden mit Commit `d3fea83` festgehalten.
+- Georgs verifizierte Dieker-Freigabe und der korrigierte Itzenga-Drei-Fragen-Entwurf wurden mit Commit `1e6e16b` festgehalten.
 
 ## Offene Punkte
 
