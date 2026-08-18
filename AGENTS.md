@@ -39,7 +39,7 @@ Sportplatz-Anzeigen standardmaessig einseitig planen. Nur nach einer beidseitige
 
 Massangaben aus dem LED-Konfigurator bezeichnen immer die sichtbare LED-Flaeche. Eine gewuenschte Blende kommt hinzu und vergroessert das spaetere Aussenmass. Nie mehr fragen, ob sich das angegebene Mass auf die LED-Flaeche oder das Aussenmass inklusive Blende bezieht.
 
-Beim Erstkontakt stattdessen klaeren, an wen das Angebot gerichtet werden darf, und die Montageadresse abfragen, sofern diese Angaben noch fehlen.
+Beim Erstkontakt nie direkt nach persoenlichem Namen, Funktion oder Ansprechpartner fragen. Der Kunde nennt diese Angaben freiwillig, wenn er das moechte. Ist kein belastbarer Name bekannt, neutral anreden. Fuer die Angebotsadressierung ausschliesslich die neutrale Formulierung `An wen dürfen wir das Angebot richten?` verwenden und diese als letzte Frage stellen. Noch nicht von Auftrag oder Rechnung sprechen und im Erstkontakt keine Rechnungsanschrift vorwegnehmen. Eine Liefer- oder Montageadresse nur sachbezogen abfragen, wenn sie fuer den naechsten technischen Schritt tatsaechlich erforderlich ist.
 
 ## Erstkontakt bei haengender oder abgehaengter Montage
 
