@@ -15,7 +15,7 @@ Dieser Skill führt einen neuen oder noch ungeklärten RS-LED-Lead vom Rohdatens
 4. **Noch kein Angebot erstellen**, solange kritische Angaben zu Anwendung, Montage, einer ausdrücklich gewünschten Sonderzuspielung oder Umgebungsbedingungen fehlen.
 5. **Nur relevante Fragen stellen.** Bereits beantwortete oder für den Fall nicht zutreffende Checklistenpunkte nicht erneut abfragen.
 6. **Keine Mail versenden.** Erst einen Entwurf erstellen. Eine vorhandene Freigabe zum Schreiben ist keine Versandfreigabe. Ausnahme für die Entwurfsanlage: Hat Georg die exakte Kundenfassung nach dem verbindlichen Prüfprozess eindeutig freigegeben, wird der kundenadressierte Entwurf gemäß Grundsatz 21 ohne eine weitere Nutzerfreigabe angelegt; dies ist weiterhin kein tatsächlicher Versand.
-7. **Twenty bei jeder relevanten Erkenntnis pflegen.** Bestehende Firmen, Personen, Opportunities, Notizen, Aufgaben und Wissenseinträge gezielt aktualisieren. Keine Dubletten oder parallele Dokumentation anlegen.
+7. **Twenty bei jeder relevanten Erkenntnis pflegen.** Bestehende Firmen, Personen, Opportunities, Notizen, Aufgaben und Wissenseinträge gezielt aktualisieren. Eingehende Kundenantworten gehören mit ihrem vollständigen kundenverfassten Inhalt und den verifizierten Mailmetadaten in den zugehörigen Twenty-Kundenvorgang, sofern Twenty sie dort nicht bereits automatisch vollständig und korrekt zugeordnet hat. Keine Dubletten oder parallele Dokumentation anlegen.
 8. **Nicht nach der Projektrolle fragen.** Ob die Anlage für den eigenen Betrieb oder einen Kunden bestimmt ist, geht RS-LED im Erstkontakt nichts an. Ist ein Werbetechniker oder Wiederverkäufer als solcher erkennbar, Partnerkonditionen anbieten, ohne nach dessen Kundenbeziehung zu fragen.
 9. **Unterkonstruktionen gehören grundsätzlich zu unserem Leistungsumfang, außer bei ausdrücklich hängender beziehungsweise abgehängter Montage.** Bei anderen Montagearten nur klären, ob am Montageort bereits eine geeignete Traverse oder tragfähige Anschlusspunkte vorhanden sind. Nicht fragen, wer die Unterkonstruktion übernimmt. Sofern der Kunde nichts anderes vorgibt, planen und liefern wir sie. Hat der Kunde jedoch bereits `hängend/abgehängt` ausgewählt, wird keine Unterkonstruktion abgefragt, angekündigt oder eingeplant. Stattdessen klären, an welchen vorhandenen Aufhänge- beziehungsweise Befestigungspunkten die LED-Wand befestigt werden soll. Kabinettspezifische Hanging Bars, Anschlagmittel und Sekundärsicherung gehören zur Hängung und sind nicht als Unterkonstruktion zu bezeichnen.
 10. **Der VNNOX-Mediaplayer ist grundsätzlich im Angebot enthalten.** Nicht routinemäßig nach Mediaplayer, CMS oder normaler Inhaltszuspielung fragen. Nur bei erkennbaren Sonderanforderungen wie Livebild, externem HDMI-Signal, kundenseitigem CMS oder besonderen Signalwegen nachfassen.
@@ -253,6 +253,16 @@ Den bestehenden Kundenvorgang gezielt aktualisieren. Das konkrete Twenty-Datenmo
 
 Vor dem Anlegen neuer Firma, Person oder Opportunity immer nach einem vorhandenen Datensatz suchen und Dubletten vermeiden. Bestehende Einträge aktualisieren, statt neue Parallelvorgänge anzulegen. Plausibilitätsfehler bei den technischen Anfragedaten sichtbar als Warnung dokumentieren. Externe Erkenntnisse, neue Kalkulationsgrundlagen und Caveats zusätzlich in den dafür vorgesehenen zentralen Twenty-Wissenseinträgen pflegen.
 
+### Eingehende Kundenantworten verbindlich in Twenty übernehmen
+
+Jede inhaltliche Antwort eines Kunden zuerst im Postfach vollständig lesen und verifizieren. Danach im zugehörigen Twenty-Kundenvorgang prüfen, ob die eingegangene Nachricht bereits automatisch vollständig und korrekt verknüpft ist. Ist sie dort bereits mit vollständigem Inhalt, Absender, Empfänger, Zeit, Betreff und Nachrichtenbezug vorhanden, keine manuelle Dublette erzeugen. Fehlt sie, ist sie nur zusammengefasst oder nicht eindeutig dem Vorgang zugeordnet, die bestehende Mailverlaufs- oder Checklisten-Notiz aktualisieren:
+
+1. Nachrichten-ID, Thread-ID, Betreff, Versand- beziehungsweise Eingangszeit, Absender, Empfänger, CC/BCC und vollständige Anhangsliste dokumentieren.
+2. Den vollständigen vom Kunden selbst verfassten Antworttext möglichst wortgetreu übernehmen. Eine darunter nur zitierte frühere RS-LED-Mail nicht erneut vollständig duplizieren, sofern sie für das Verständnis nicht erforderlich ist.
+3. Den Kundenwortlaut klar von der fachlichen Auswertung trennen. Zusammenfassungen dürfen den vollständigen Originalinhalt ergänzen, aber nicht ersetzen.
+4. Opportunity, Aufgabe, Verantwortlichkeit, Status, letzten Kontakt und nächsten Schritt anhand der Antwort aktualisieren. Bereits beantwortete Punkte nicht weiter als offen führen.
+5. Bestehende Verlaufsnotizen aktualisieren statt für dieselbe Antwort unverbundene Parallelnotizen anzulegen.
+
 ### Verbindliche Vorabkontrolle jeder Kundenmail durch Georg
 
 Jeder Erstkontakt und jede andere neu verfasste Kundenmail geht grundsätzlich zuerst an Georg zur Ansicht. Vor seiner Freigabe der exakten Fassung wird kein kundenadressierter Entwurf angelegt:
@@ -328,6 +338,7 @@ Diese Nachfrage gilt für Mails an den anfragenden Kunden, nicht routinemäßig 
 - Sind fremde Kunden- und Projektnamen, Ansprechpartner, Angebotsnummern und interne Projektbezeichnungen aus dem Kundenmailtext entfernt und Referenzen neutral beschrieben?
 - Wurde nach einem Versandauftrag an den anfragenden Kunden genau einmal nach dem manuellen Versand gefragt?
 - Wurden bestätigte Kundenmail-Versendungen im Gesendet-Ordner verifiziert und in Opportunity beziehungsweise Kundenvorgang sowie Versandaufgabe in Twenty als erledigt markiert?
+- Wurde jede verifizierte Kundenantwort in Twenty auf automatische vollständige Zuordnung geprüft und, falls diese fehlt, mit vollständigem kundenverfasstem Wortlaut, Mailmetadaten und fachlich getrenntem Auswertungsteil in den bestehenden Kundenvorgang übernommen?
 - Wurde Twenty aktualisiert, ohne Dubletten oder parallele Dokumentation anzulegen?
 - Wurden keine Bilder in den E-Mail-Entwurf eingebettet oder als Anhang hinzugefügt?
 
