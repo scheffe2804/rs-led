@@ -320,6 +320,7 @@ Diese Datei ist das fortlaufende technische Sitzungs- und Uebergabeprotokoll fue
 - Die neue Twenty-Skill-Pflicht, die Kamera-Planungsregel sowie die verifizierten TuSpo-, Wallenstein- und Itzenga-Staende wurden mit Commit `8758118` festgehalten und auf den bestehenden Upstream gepusht.
 - Die Korrektur der unzutreffenden Aussage ueber angeblich abgeschnittene Skill-Texte wurde mit Commit `d92b3bc` festgehalten und auf den bestehenden Upstream gepusht.
 - Die TuSpo-Pruefung, der vollstaendig gepruefte aktuelle Georg-Entwurf, die Bereinigung der drei ueberholten Entwuerfe sowie die verbindliche Erstkontaktregel zu Name/Funktion und Angebotsadressierung wurden mit Commit `9b1be59` festgehalten und auf den bestehenden Upstream gepusht.
+- Die sofortige Twenty-Dokumentationspflicht in `AGENTS.md` und dem lokalen Erstkontakt-Skill, Georgs Systemprompt-/MCP-Lebenszyklus-Korrektur, der verifizierte Itzenga-Informationsversand sowie die vollstaendige Stadtlohn-PDF- und Entwurfspruefung wurden mit Commit `d8f2734` festgehalten und auf den bestehenden Upstream gepusht.
 
 ## Offene Punkte
 
