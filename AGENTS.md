@@ -31,11 +31,15 @@ Das Protokoll muss den tatsaechlichen Stand wiedergeben. Entwuerfe duerfen nicht
 
 Twenty ist fuer dieses Projekt die alleinige verbindliche Quelle fuer CRM-Daten und die zugehoerige Wissensbasis. Bei relevanten Aenderungen, Neuinstallationen, Erkenntnissen oder Caveats die passenden Datensaetze beziehungsweise Wissenseintraege in Twenty pflegen. Bestehende Datensaetze gezielt aktualisieren und keine parallele Dokumentation in einem anderen System anlegen.
 
+Sobald in einer neuen OpenCode-Sitzung eine neue oder noch offene LED-Anfrage beziehungsweise ein Erstkontakt bearbeitet wird, vor der inhaltlichen Bearbeitung immer den aktuellen Twenty-Skill `erstkontaktRsLedTechnikLedAnfrage` mit dem Anzeigenamen `Erstkontakt - RS-Led Technik - LED Anfrage` laden und vollstaendig lesen. Nicht aus einer frueheren Sitzung oder einer lokalen Zusammenfassung arbeiten. Der Skill beschreibt den verbindlichen Ablauf; die darin genannten aktuellen Twenty-Wissensartikel sind vor jedem neuen Erstkontakt-Entwurf ebenfalls als fachliche Quelle der Wahrheit zu lesen. Bei Abweichungen gelten der aktuell geladene Twenty-Skill und die aktuellen Twenty-Wissensartikel, nicht eine Erinnerung an eine fruehere Fassung.
+
 ## Erstkontakt bei Sportplatz-Leads
 
 Bei vergleichbaren Sportplatz-Anzeigen sind etwa 30 m Betrachtungsabstand fuer grosse Spielstaende, Uhr, Vereinswappen und grossflaechige Sponsorenmotive plausibel. Diesen Abstand nicht routinemaessig erneut hinterfragen, sofern Groesse, Inhalt oder Standortgeometrie keinen Widerspruch erkennen lassen.
 
 Sportplatz-Anzeigen standardmaessig einseitig planen. Nur nach einer beidseitigen oder mehrseitigen Ausfuehrung fragen, wenn Anfrage, Bilder oder Standort dies konkret nahelegen. Eine ausdruecklich angegebene Unterkante als Unterkante uebernehmen und nicht ohne Widerspruch in eine Rueckfrage zur Gesamthoehe umdeuten.
+
+Bei einer offenkundig grossformatigen Sportplatz- oder Veranstaltungsanzeige, die erkennbar vor einem groesseren Publikum steht und typischerweise bei Spielen oder Veranstaltungen aufgenommen werden kann, Kameraaufnahme intern als Planungsannahme behandeln, solange der Kunde sie nicht ausdruecklich ausgeschlossen hat. Dann nicht routinemaessig nach Kamera oder Livestream fragen; Kameratauglichkeit und mindestens 3.840 Hz spaeter am konkreten Produktdatenblatt verifizieren. Keine starre Quadratmeter- oder Zuschauergrenze setzen, sondern Flaeche, Standort, Publikumswirkung und Nutzung gemeinsam bewerten. Die Annahme nicht als Kundenaussage ausgeben. Video als Inhalt auf der Anzeige ist davon getrennt; `Video nicht angefragt` widerlegt eine moegliche Kameraaufnahme der Anzeige nicht.
 
 Massangaben aus dem LED-Konfigurator bezeichnen immer die sichtbare LED-Flaeche. Eine gewuenschte Blende kommt hinzu und vergroessert das spaetere Aussenmass. Nie mehr fragen, ob sich das angegebene Mass auf die LED-Flaeche oder das Aussenmass inklusive Blende bezieht.
 
