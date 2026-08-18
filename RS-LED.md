@@ -324,6 +324,7 @@ Diese Datei ist das fortlaufende technische Sitzungs- und Uebergabeprotokoll fue
 - Die Korrektur der unzutreffenden Aussage ueber angeblich abgeschnittene Skill-Texte wurde mit Commit `d92b3bc` festgehalten und auf den bestehenden Upstream gepusht.
 - Die TuSpo-Pruefung, der vollstaendig gepruefte aktuelle Georg-Entwurf, die Bereinigung der drei ueberholten Entwuerfe sowie die verbindliche Erstkontaktregel zu Name/Funktion und Angebotsadressierung wurden mit Commit `9b1be59` festgehalten und auf den bestehenden Upstream gepusht.
 - Die sofortige Twenty-Dokumentationspflicht in `AGENTS.md` und dem lokalen Erstkontakt-Skill, Georgs Systemprompt-/MCP-Lebenszyklus-Korrektur, der verifizierte Itzenga-Informationsversand sowie die vollstaendige Stadtlohn-PDF- und Entwurfspruefung wurden mit Commit `d8f2734` festgehalten und auf den bestehenden Upstream gepusht.
+- Der verifizierte Stadtlohn-Angebotsversand, Lucas automatisch synchronisierte Alternativanfrage, die beiden tatsaechlichen internen Versände an Georg und die Uebergabe der bestehenden Aufgabe an Georg wurden mit Commit `b463241` festgehalten und auf den bestehenden Upstream gepusht.
 
 ## Offene Punkte
 
