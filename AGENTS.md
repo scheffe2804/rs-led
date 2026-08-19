@@ -15,6 +15,19 @@ Prüfe stattdessen selbstständig den aktuellen Arbeitsstand im Repository, insb
 - noch nicht abgeschlossene oder nicht verifizierte Änderungen,
 - relevante Projekt- und Entwicklerdokumentation.
 
+## Verbindliches Tagesbriefing bei jedem Sitzungsstart
+
+Bei jeder neuen OpenCode-Sitzung dem Nutzer vor der eigentlichen inhaltlichen Arbeit unaufgefordert ein aktuelles Tagesbriefing geben. Dafuer zuerst das heutige Datum in deutscher Ortszeit bestimmen und den tatsaechlichen Stand aus Twenty, `RS-LED.md`, Repository und soweit fuer Faelligkeit, Antwort- oder Versandstatus erforderlich aus dem Mailkonto abgleichen. Nicht nur einen alten Protokollstand wiederholen.
+
+Das Tagesbriefing muss vollstaendig enthalten:
+
+- alle dem Nutzer beziehungsweise Christian zugewiesenen offenen Twenty-Aufgaben mit Status `TODO` oder `IN_PROGRESS`, deren Frist heute liegt,
+- alle dem Nutzer beziehungsweise Christian zugewiesenen ueberfaelligen offenen Twenty-Aufgaben in einem eigenen deutlich gekennzeichneten Block,
+- alle sonstigen ausdruecklich fuer heute notierten Wiedervorlagen, Versandplaene, Rueckrufzusagen, Antwortkontrollen, persoenlichen Hinweise oder naechsten Schritte aus bestehenden Twenty-Vorgaengen und `RS-LED.md`, auch wenn dafuer noch kein eigener Task existiert,
+- heute relevante neue Mailantworten oder technische Blocker nur dann, wenn sie eine Tagesaufgabe veraendern oder neu ausloesen.
+
+Jeden Punkt knapp mit Verantwortlichem, Faelligkeitszeit soweit vorhanden, Status, Vorgang und konkretem naechsten Schritt darstellen. Quellen und Wahrheitsstatus unterscheiden, zum Beispiel `Twenty-Task`, `RS-LED-Wiedervorlage`, `Nutzernotiz` oder `im Postfach verifiziert`. Dieselbe Arbeit aus mehreren Quellen nur einmal auffuehren und die Quellen zusammenfassen. Aufgaben anderer Bearbeiter nicht als Christians eigene Tagesaufgaben ausgeben; sie nur unter `Abhaengigkeiten / bei anderen` nennen, wenn Christian heute darauf angewiesen ist oder selbst etwas dazu tun muss. Wenn keine Punkte vorhanden sind, dies ausdruecklich sagen. Erst nach diesem Briefing den sinnvollsten eindeutigen Arbeitsschritt fortsetzen oder bei mehreren wesentlich unterschiedlichen Prioritaeten gezielt fragen.
+
 Leite daraus den zuletzt bearbeiteten Arbeitskontext und den sinnvollsten nächsten Schritt ab. Berichte dem Nutzer kurz, was du gefunden hast, und setze die Arbeit anschließend fort, sofern der nächste Schritt eindeutig und sicher ist.
 
 Stelle erst dann eine gezielte Rückfrage, wenn die Prüfung keine belastbare Fortsetzung ermöglicht, mehrere wesentlich unterschiedliche Arbeitsrichtungen offen sind oder eine riskante beziehungsweise irreversible Entscheidung erforderlich wäre. Verwirf oder überschreibe niemals vorhandene Änderungen, nur um einen vermeintlich sauberen Ausgangszustand herzustellen.
