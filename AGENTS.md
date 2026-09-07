@@ -60,6 +60,10 @@ Massangaben aus dem LED-Konfigurator bezeichnen immer die sichtbare LED-Flaeche.
 
 Beim Erstkontakt nie direkt nach persoenlichem Namen, Funktion oder Ansprechpartner fragen. Der Kunde nennt diese Angaben freiwillig, wenn er das moechte. Ist kein belastbarer Name bekannt, neutral anreden. Fuer die Angebotsadressierung ausschliesslich die neutrale Formulierung `An wen dürfen wir das Angebot richten?` verwenden und diese als letzte Frage stellen. Noch nicht von Auftrag oder Rechnung sprechen und im Erstkontakt keine Rechnungsanschrift vorwegnehmen. Eine Liefer- oder Montageadresse nur sachbezogen abfragen, wenn sie fuer den naechsten technischen Schritt tatsaechlich erforderlich ist.
 
+## Erstkontakt ohne Fragen zum Geschaeftsmodell
+
+Bei vergleichbaren Erstkontakten nicht routinemaessig fragen, ob die Anlage gekauft, fuer eine einzelne Veranstaltung gemietet oder regelmaessig in der Vermietung eingesetzt werden soll. Der Nutzer hat diese Frage am 07.09.2026 als uebergriffig verworfen. Keine Umformulierung oder Aufteilung als Ersatzfrage. Im konkreten Esslinger-Entwurf entfiel die gesamte Frage einschliesslich Termin und Einsatzort ersatzlos. Standortdaten weiterhin nur sachbezogen erfragen, wenn sie fuer den naechsten konkreten technischen Schritt tatsaechlich erforderlich sind, nicht als pauschalen Fragenblock zum Geschaeftsmodell. Die verbindliche fachliche Regel steht im aktuellen Twenty-Artikel `Erstkontakt — Anrede und Angebotsadressierung`.
+
 ## Erstkontakt bei haengender oder abgehaengter Montage
 
 Wenn der Kunde im LED-Konfigurator ausdruecklich `haengend/abgehaengt` ausgewaehlt hat, diese Montageart als beantwortet behandeln. Nicht ohne konkreten Widerspruch erneut fragen, ob die LED-Wand dauerhaft haengen oder fuer Veranstaltungen auf- und abgebaut werden soll.
