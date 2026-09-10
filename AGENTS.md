@@ -32,6 +32,16 @@ Leite daraus den zuletzt bearbeiteten Arbeitskontext und den sinnvollsten nächs
 
 Stelle erst dann eine gezielte Rückfrage, wenn die Prüfung keine belastbare Fortsetzung ermöglicht, mehrere wesentlich unterschiedliche Arbeitsrichtungen offen sind oder eine riskante beziehungsweise irreversible Entscheidung erforderlich wäre. Verwirf oder überschreibe niemals vorhandene Änderungen, nur um einen vermeintlich sauberen Ausgangszustand herzustellen.
 
+## Nur unbedingt notwendige Pruefungen
+
+Ausdrueckliche Nutzeranweisung vom 10.09.2026: So viel pruefen wie unbedingt noetig, mehr nicht. Kurze Mailreaktionen und Statuskorrekturen direkt bearbeiten, nicht durch breite Recherche, wiederholte Vollpruefungen oder Agentenketten verzoegern.
+
+- Bekannten Vorgang und vorhandene IDs verwenden. Neue Nachricht einmal vollstaendig lesen; bereits verifizierte unveraenderte Historie, Signaturen und Quellen weiterverwenden.
+- Nur neue oder geaenderte Angaben und den tatsaechlichen naechsten Schritt pruefen. Suche erst bei fehlendem Treffer, Widerspruch oder konkretem Risiko erweitern, nicht routinemaessig alle Ordner und Wissensartikel erneut durchsuchen.
+- Notwendige Empfaenger-/BCC-, Inhalts-, Anhangs-, Signatur-/HTML- und Entwurfs-/Versandpruefungen in einem Ruecklesedurchgang buendeln. Kritische CRM-Aenderungen einmal gezielt zuruecklesen, nicht nochmals unabhaengig nachpruefen.
+- Einfache Einzelvorgaenge selbst erledigen, ohne Rechercheagenten oder doppelte Bearbeitung durch Haupt- und Unteragent. Keine kuenstlichen Pruefzaehler oder langen Fortschrittsberichte.
+- Bestehende Freigaben, Versandgrenzen und wahrheitsgemaesse CRM-Dokumentation bleiben verbindlich. Weniger redundante Pruefung bedeutet keine erfundene Freigabe oder Versandbestaetigung. Pflichtquellen nur fuer den jeweiligen fachlichen Anlass laden; eine reine Antwort-/Versandkontrolle startet keinen neuen Erstkontaktprozess.
+
 ## Verbindliches Sitzungsprotokoll in RS-LED.md
 
 Die Datei `RS-LED.md` MUSS in jeder OpenCode-Sitzung eigenstaendig und fortlaufend mitprotokolliert werden. Zu Beginn jeder Sitzung die Datei lesen und mit dem Repository-, Twenty- und Mail-Stand abgleichen. Waehrend der Arbeit beziehungsweise spaetestens vor Sitzungsende alle wesentlichen ausgefuehrten Arbeiten, Entscheidungen, Verifizierungen, Commits, offenen Punkte, Blocker und den naechsten belastbaren Schritt nachtragen.

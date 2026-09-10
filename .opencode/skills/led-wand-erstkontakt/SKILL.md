@@ -7,6 +7,12 @@ description: Use ONLY for LED-Wand, LED-Videowand, Konfigurator-Lead, Kundenanfr
 
 Dieser Skill führt einen neuen oder noch ungeklärten RS-LED-Lead vom Rohdatensatz bis zu einer geprüften Erstkontakt-Mail. Ziel ist nicht, möglichst schnell ein Produkt zu empfehlen, sondern zuerst die tatsächliche Anwendung, die technische Machbarkeit und den Leistungsumfang belastbar zu klären.
 
+## Pruefumfang begrenzen
+
+Nutzeranweisung vom 10.09.2026: **So viel wie unbedingt noetig, mehr nicht.** Bei kurzen Mailreaktionen, Freigaben und Statuskorrekturen den bekannten Vorgang direkt fortfuehren. Neue Nachricht einmal vollstaendig lesen, nur Aenderungen pruefen und bereits verifizierte unveraenderte Historie und Quellen weiterverwenden. Kein erneuter kompletter Erstkontakt-/Technikcheck fuer eine blosse Antwort oder Versandbestaetigung.
+
+Suche nur bei fehlendem Treffer, Widerspruch oder konkretem Risiko erweitern. Erforderliche Empfaenger-/BCC-, Inhalts-, Anhangs-, Signatur-/HTML- und Statuspruefungen in einem Ruecklesedurchgang buendeln; kritische CRM-Aenderungen einmal gezielt zuruecklesen. Keine Agentenketten fuer einfache Einzelvorgaenge, keine doppelte Haupt-/Unteragentpruefung und keine langen Pruefberichte. Freigaberegeln, Versandgrenzen und wahrheitsgemaesse Dokumentation bleiben unveraendert. Die folgenden umfassenden Fachschritte gelten fuer neue oder fachlich geaenderte Anfragen, nicht erneut fuer jede kurze Reaktion.
+
 ## Verbindliche Grundsätze
 
 1. **Nie allein der Konfigurator-Empfehlung vertrauen.** Sie ist ein Startpunkt, keine Produktauswahl.
