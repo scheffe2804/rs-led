@@ -80,6 +80,12 @@ Wenn der Kunde im LED-Konfigurator ausdruecklich `haengend/abgehaengt` ausgewaeh
 
 Bei dieser Montageart keine Unterkonstruktion abfragen, ankündigen oder einplanen. Stattdessen klaeren, an welchen vorhandenen Aufhaenge- beziehungsweise Befestigungspunkten die abgehaengte LED-Wand befestigt werden soll. Erforderliche kabinettspezifische Hanging Bars, Anschlagmittel und Sekundaersicherung sind Komponenten der Haengung und nicht als Unterkonstruktion zu bezeichnen.
 
+## E-Mail-Stil ohne Anfragewiederholung
+
+Nutzeranweisung vom 11.09.2026: Kundenanfragen in kuenftigen Mails nicht einleitend wiederholen, zusammenfassen oder paraphrasieren. Das gilt fuer Erstkontakte, Antworten und Nachfassmails sowie fuer Kundenmailtexte in internen Pruefentwuerfen. Nach der Anrede hoechstens kurz danken und direkt mit den notwendigen Fragen oder der konkreten Antwort beginnen. Keine dekorative Wiederholung bekannter Masse, Nutzung oder Wunschinhalte und keine technische Vorrede als Ersatz. Kurze Mails nicht zum Erreichen einer Wortzahl kuenstlich verlaengern.
+
+Ein gezielter Bezug auf eine bekannte Angabe innerhalb einer notwendigen Frage oder sachlichen Antwort bleibt zulaessig, etwa auf das konfigurierte Mass bei einer begruendeten Frage nach der maximal verfuegbaren Flaeche. Ebenso darf eine Nachfassmail die bisherige Nachricht oder das Angebot kurz zuordnen, ohne die Anfrage nachzuerzaehlen. Bereits freigegebene exakte Fassungen, feste Muster und ausdruecklich unveraendert weiterzuleitende Originaltexte nicht stillschweigend umschreiben; eine inhaltlich geaenderte pruefpflichtige Fassung erneut Georg vorlegen.
+
 ## E-Mail-Versand
 
 Nach 17:00 Uhr deutscher Ortszeit keine E-Mails mehr versenden. Das gilt fuer Kundenmails sowie interne Pruef- und Informationsmails. Wird eine Fassung nach 17:00 Uhr freigegeben oder sendefertig, den unveraenderten Entwurf im regulaeren Entwurfsordner belassen und die konkrete Versandaufgabe auf den naechsten Morgen terminieren. Entwurf oder Freigabe nicht als Versand dokumentieren. Geht vor dem geplanten Versand eine relevante Antwort ein, den Versand stoppen und zuerst die Antwort bearbeiten.
