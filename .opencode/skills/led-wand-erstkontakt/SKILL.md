@@ -7,6 +7,8 @@ description: Use ONLY for LED-Wand, LED-Videowand, Konfigurator-Lead, Kundenanfr
 
 Dieser Skill führt einen neuen oder noch ungeklärten RS-LED-Lead vom Rohdatensatz bis zu einer geprüften Erstkontakt-Mail. Ziel ist nicht, möglichst schnell ein Produkt zu empfehlen, sondern zuerst die tatsächliche Anwendung, die technische Machbarkeit und den Leistungsumfang belastbar zu klären.
 
+Stand 14.09.2026: Fuer neue persoenliche Erstkontakte gilt der aktuell geladene Twenty-Ablauf, bei Sport einschliesslich kurzer Vereins-/Sportstaettenrecherche und Georg-Pruefung. Aeltere feste Sport-Muster sind fuer diesen neuen Ablauf keine Vorlage; technische Checklisten dienen der internen Einordnung, nicht als Fragenkatalog fuer den Kunden. Die alte WhatsApp-Freigabe fuer feste Sport-Erstkontakte deckt keine persoenlichen Recherche-Ergaenzungen ab; die gesonderte Ausnahme fuer kurze Standard-Nachfassmails bleibt bestehen.
+
 ## Pruefumfang begrenzen
 
 Nutzeranweisung vom 10.09.2026: **So viel wie unbedingt noetig, mehr nicht.** Bei kurzen Mailreaktionen, Freigaben und Statuskorrekturen den bekannten Vorgang direkt fortfuehren. Neue Nachricht einmal vollstaendig lesen, nur Aenderungen pruefen und bereits verifizierte unveraenderte Historie und Quellen weiterverwenden. Kein erneuter kompletter Erstkontakt-/Technikcheck fuer eine blosse Antwort oder Versandbestaetigung.
@@ -69,6 +71,7 @@ Die jeweils aktuelle Fassung aus Twenty abrufen, nicht aus dem Gedächtnis arbei
 - den aktuellen Wissenseintrag `Produktserien & Namensgebung`
 - bei Bedarf den Wissenseintrag `Mitschick-Dokumente & E-Mail-Signatur`
 - weitere mit dem Vorgang verknüpfte technische, kaufmännische oder servicebezogene Wissenseinträge
+- bei Sportvereinen `Erstkontakt — Anrede und Angebotsadressierung` (248fd21d-8b01-4517-8be8-d4bbe0bc0b26) einschliesslich Zusammenfassung und Volltext: Vereins-/Sportstaettenrecherche, Quellenstatus und ehrliche Wertschaetzung des Engagements
 
 Vor dem ersten Twenty-Zugriff bei Bedarf mit `learn_tools` die aktuellen Werkzeuge und Eingabeschemata für die betroffenen Objekte laden. Vorhandene Felder und Relationen verwenden; nicht eigenmächtig das Twenty-Datenmodell verändern.
 
@@ -106,6 +109,18 @@ Fehlt eine ausdrückliche Kameraangabe, bei offenkundig großformatigen Sportpla
 Das Konfiguratorfeld `Betrachtungsabstand` bezeichnet den **durchschnittlichen Betrachtungsabstand**. Den Wert nicht in einer routinemäßigen Rückfrage wieder öffnen. Eine Nachfrage ist nur zulässig, wenn die physische Sichtbarkeitsprüfung einen konkreten Widerspruch zwischen Abstand, Fläche und vorgesehenem Inhalt ergibt. Auch dann nicht nach typischem, kleinstem und größtem Abstand fragen, sondern den erkannten Widerspruch konkret benennen und die Angabe gezielt verifizieren.
 
 Davon getrennt darf nach den **auf der LED-Wand gezeigten Inhalten** gefragt werden: nur Spielstände, Ergebnisse und einfache Grafiken oder auch Vereinslogos, Sponsorenwerbung, Bilder, Videos beziehungsweise live eingespielte Kamerabilder. Diese Inhaltsfrage ist durch `Kamera: ja` nicht beantwortet. Von ihr hängen insbesondere Auflösung, Controller, Signaltechnik und Preis ab. Die Rückfrage kurz begründen: Mit diesen Angaben kann RS-LED ein Angebot mit optimalem Preis-Leistungs-Verhältnis erstellen.
+
+### 1a. Verein und Sportstaette kennenlernen
+
+Bei neuen Sportvereinsanfragen, auch fuer Hallen oder Banden, vor der Formulierung kurz selbst recherchieren. Haltung nach Nutzerklarstellung vom 14.09.2026: In Vereinsarbeit steckt Herzblut. Ehrliches Interesse, angemessene Waerme, verstaendliche Beratung und moeglichst wenig Zusatzarbeit sind unser Beitrag. Ein kurzer aufrichtiger Dank ist bei passendem Anlass sinnvoll; keine Pflichtfloskel und kein Verkaufstrick. Persoenliches Engagement oder Ehrenamtlichkeit nicht erfinden; keine Rabatt-, Spenden- oder Leistungszusage daraus ableiten.
+
+1. Verein und Ort anhand der Anfrage zuordnen. Offizielle Vereins-, Verbands- und Kommunalseiten fuer Sportarten, aktuellen Ligakontext oder Anlagenprojekte nutzen. Bei mehreren Spielstaetten oder Namensgleichheit Projektzuordnung offenlassen; Vereinssitz ist kein Montageortnachweis. Keine privaten Profile, Familieninformationen oder Identifizierung abgebildeter Personen; keine Kaufkraftannahmen aus Liga/Sponsoren.
+2. Oeffentliche Bilder der Sportstaette suchen und tatsaechlich ansehen: Google Maps, Satellitenansicht/Street View, vergleichbare Karten, Vereinsgalerien oder serioese Lokalberichte. Suchvorschau/Bildbeschreibung nicht als eigene Bildpruefung ausgeben. Zuschauerbereiche, Tribuene, vorhandene Anzeige, Blickrichtungen, Hindernisse, moegliche Montagebereiche und Zugang beachten. Bildquelle und Aufnahmezeit soweit bekannt festhalten, unbekanntes Bildalter markieren.
+3. Nur mit nutzbarer Kartenmessung, Koordinaten oder belegtem Massstab Entfernungen ableiten. Start-/Endpunkt, Methode und angenommene Anzeigenposition nennen, sinnvoll runden/Bereich angeben. Ohne Position nur hypothetisches Szenario, ohne Massstab keine Meterzahl; Standardspielfeldmasse nicht als Messung ausgeben. Horizontale Distanz ist nicht automatisch Sichtlinie oder durchschnittlicher Betrachtungsabstand. Fotos belegen keine Tragfaehigkeit, Stromversorgung, Genehmigung oder dauerhafte Verschattung und ersetzen kein Aufmass/Statik.
+4. Kundenangaben und Konfiguratorwerte bleiben fuehrend. Recherche-Schaetzungen nicht als Kundenangaben speichern; nur konkrete relevante Widersprueche gezielt klaeren, keine neuen Routinefragen. Interesse vor allem durch bessere Beratung und weniger Fragen zeigen. In einer individuellen Mail hoechstens einen natuerlichen sachbezogenen Halbsatz ueber Verein/Sportstaette verwenden, sonst nur als Gespraechsvorbereitung. Kein kuenstliches Lob, keine ungefragten Personen-/Ergebnisdetails, kein behaupteter Besuch und keine dekorative Anfragewiederholung. Individuelle Erstkontaktfassung zuerst Georg vorlegen, bereits freigegebene Texte nicht nachtraeglich personalisieren.
+5. Ergebnisse knapp in der bestehenden Twenty-Notiz unter `Verein und Sportstaette` festhalten: Quellenlinks/Abrufdatum, Bilddatum, Zuordnung, relevante Beobachtungen, unsichere Ableitungen und moeglicher Gespraechsbezug. Status `Kundenangabe`, `oeffentliche Quelle (nicht kundenbestaetigt)`, `Bildbeobachtung (nicht kundenbestaetigt)`, `Schaetzung/Planungsannahme`, `offen` unterscheiden. Kein lokales Kundendossier/Parallelobjekt. Bilder nur ansehen und verlinken; nicht automatisch kopieren/einbetten/anhaengen, spaetere Verwendung nur mit gesondertem Auftrag und geklaerten Nutzungsrechten.
+
+Wenige Minuten und wenige gezielte Quellen genuegen, keine Agentenkette. Bei blockierter Karte eine zugaengliche Alternative versuchen, keine Sperre umgehen. Ohne brauchbaren Treffer normal weiterarbeiten, fehlende Bilder allein sind kein Angebots- oder Erstkontaktblocker. Unveraenderte Recherche wiederverwenden; reine Freigabe-/Versandkontrollen und Standard-Nachfragen starten keine Recherche. Bestand nur bei neuem fachlichem Anlass oder ausdruecklichem Auftrag ergaenzen.
 
 ### 2. Plausibilität vor Pitch prüfen
 
@@ -206,7 +221,7 @@ Erst nach Auflösung der Blocker Produkt, Lieferzeit, Marge oder Endpreis festle
 - formelles Deutsch; einen bereits belastbar bekannten Namen mit `Sehr geehrter Herr ...` oder `Sehr geehrte Frau ...` verwenden, andernfalls neutral anreden. Nie nach Name oder Funktion fragen
 - so kurz wie fuer die notwendigen Fragen sinnvoll; keine Mindestwortzahl
 - nach der Anrede hoechstens kurzer Dank, dann direkt Fragen oder Antwort; keine einleitende Wiederholung oder Paraphrase der Kundenanfrage und keine technische Vorrede
-- nummerierte Rückfragen, möglichst ein Gedanke pro Nummer
+- Fragen in natuerlichen kurzen Absaetzen nach dem aktuellen Twenty-Ablauf, keine Nummerierung oder Aufzaehlung im persoenlichen Erstkontakt
 - kein Fachvortrag und keine unbegründete Produktempfehlung
 - keine Gedankenstriche; normale Satzzeichen verwenden
 - Auffälligkeiten freundlich erklären, nicht belehren
@@ -216,7 +231,7 @@ Erst nach Auflösung der Blocker Produkt, Lieferzeit, Marge oder Endpreis festle
 
 ### Priorisierung
 
-Die Mail soll normalerweise drei bis sieben leicht beantwortbare Fragen enthalten. Zuerst fragen, was die Produktauswahl wesentlich verändert:
+Die folgende Liste dient nur der internen Priorisierung, nicht als Fragenzahl oder Mailgliederung. Nach aktuellem Twenty-Ablauf nur wirklich offene, leicht beantwortbare Punkte im Fliesstext aufgreifen, hoechstens drei Fragezeichen; die Angebotsadressierung gehoert in der Regel erst in Runde zwei. Bereits beantwortete Punkte nicht erneut abfragen. Intern nach Einfluss auf die Produktauswahl bewerten:
 
 1. durchschnittliche Entfernung und Zielgruppe, sofern nicht bereits im Konfigurator beantwortet oder nur bei einem konkreten Widerspruch zu verifizieren
 2. Inhalte
@@ -314,6 +329,7 @@ Diese Nachfrage gilt für Mails an den anfragenden Kunden, nicht routinemäßig 
 
 ## Selbstprüfung vor Ausgabe
 
+- Bei einer neuen Sportvereinsanfrage: Wurde eine kurze Vereins-/Sportstaettenrecherche versucht, wurden Bilder wirklich angesehen oder fehlende Treffer kenntlich gemacht und wurden Quellen, Kundenangaben und Schaetzungen getrennt dokumentiert? Zeigt die Beratung ehrliches Interesse und entlastet sie den Kunden, ohne aufgesetztes Lob, private Recherche oder ungepruefte Zusagen?
 - Sind Wandgröße und Betrachtungsabstand getrennt vom Pitch geprüft?
 - Wurde die Auswirkung des Inhalts berücksichtigt?
 - Wurde der Konfiguratorwert als durchschnittlicher Betrachtungsabstand behandelt und nicht ohne konkreten Widerspruch erneut abgefragt?
@@ -341,7 +357,7 @@ Diese Nachfrage gilt für Mails an den anfragenden Kunden, nicht routinemäßig 
 - Wurde auf jede direkte Frage nach persönlichem Namen, Funktion oder Ansprechpartner verzichtet und bei fehlendem Namen neutral angeredet?
 - Wird bei unbekanntem Angebotsempfänger ausschließlich `An wen dürfen wir das Angebot richten?` als letzte Frage verwendet?
 - Wurde im Erstkontakt auf eine verfrühte Frage nach der Rechnungsanschrift verzichtet und wurden Liefer- oder Montageadressen nur bei konkreter technischer Erforderlichkeit sachbezogen erfragt?
-- Enthält die Mail nur die wichtigsten drei bis sieben, ohne Unterlagen direkt beantwortbaren Fragen?
+- Folgt die persoenliche Mail dem aktuellen Twenty-Ablauf, ohne Fragenkatalog, Nummerierung oder kuenstliche Mindestfragenzahl, mit hoechstens drei Fragezeichen und nur ohne Unterlagen direkt beantwortbaren offenen Punkten?
 - Wurden Fotos, Lagepläne, Aufmaße sowie nachgelagerte Detailfragen zu Strom, Unterkante, Ballaufprall und Montagezugang möglichst in die zweite Planungsstufe verschoben?
 - Lädt der Schluss den Kunden ausdrücklich zu eigenen Fragen per E-Mail oder Telefonat ein?
 - Ist jede Aussage als Fakt, plausible Einschätzung oder offene Frage erkennbar?
